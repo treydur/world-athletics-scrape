@@ -1,0 +1,1631 @@
+,name,dob,nat,score,events,environment,race,date,performance,place
+0,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,800 Metres,25 AUG 2018,1:58.73,Bedford (GBR)
+1,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,800 Metres,07 AUG 2019,1:54.10,Watford (GBR)
+2,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,800 Metres,29 AUG 2020,1:53.32,"Lee Valley Athletics Centre, London (GBR)"
+3,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,800 Metres,12 JUN 2021,1:50.10,"Woodside Stadium, Watford (GBR)"
+4,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,800 Metres,10 AUG 2022,1:49.61,"Woodside Stadium, Watford (GBR)"
+5,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,1500 Metres,17 AUG 2019,3:59.21,Gillingham (GBR)
+6,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,1500 Metres,28 JUL 2021,3:53.49,"Woodside Stadium, Watford (GBR)"
+7,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,1500 Metres,28 MAY 2022,3:46.64,"Sportcity Regional Arena, Manchester (GBR)"
+8,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,One Mile,14 MAY 2021,4:13.8h,"Norfolk Athletics Track, Norwich (GBR)"
+9,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,3000 Metres,31 OCT 2020,8:49.30,"Norfolk Athletics Track, Norwich (GBR)"
+10,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,3000 Metres,29 AUG 2021,8:36.4h,"Norfolk Athletics Track, Norwich (GBR)"
+11,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Outdoor,5000 Metres,19 MAR 2022,15:43.09,"Birmingham University Athletics Track, Birmingham (GBR)"
+12,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Indoor,600 Metres,01 DEC 2021,1:21.93,"National Indoor Athletics Centre, Cardiff (GBR)"
+13,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Indoor,800 Metres,19 FEB 2020,1:53.05,"Lee Valley Athletics Centre, London (GBR)"
+14,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Indoor,800 Metres,23 JAN 2022,1:50.50,"Lee Valley Athletics Centre, London (GBR)"
+15,Tyler BILYARD,08 OCT 2001,GBR,986,1500m,Indoor,1500 Metres,09 FEB 2022,3:56.35,"Lee Valley Athletics Centre, London (GBR)"
+16,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,800 Metres,13 JUN 2018,1:57.53,Getafe (ESP)
+17,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,1500 Metres,08 JUL 2018,3:57.83,Getafe (ESP)
+18,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,1500 Metres,07 JUL 2019,3:57.17,Granollers (ESP)
+19,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,1500 Metres,10 JUL 2021,3:47.06,"Aluche, Madrid (ESP)"
+20,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,1500 Metres,16 JUN 2022,3:47.45,Castellón (ESP)
+21,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,3000 Metres,12 MAY 2018,8:59.75,Barcelona (ESP)
+22,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,3000 Metres,27 APR 2019,8:46.10,Madrid (ESP)
+23,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,3000 Metres,20 DEC 2020,8:37.10,Móstoles (ESP)
+24,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,3000 Metres,12 JUN 2021,8:38.64,"Estadio Vallehermoso, Madrid (ESP)"
+25,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Outdoor,3000 Metres,14 MAY 2022,8:29.04,Sagunto (ESP)
+26,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Indoor,1500 Metres,30 DEC 2018,3:56.85,Madrid (ESP)
+27,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Indoor,1500 Metres,23 JAN 2021,3:56.31,"Gallur, Madrid (ESP)"
+28,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Indoor,1500 Metres,26 FEB 2022,3:51.22,"Pistas Expourense, Ourense (ESP)"
+29,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Indoor,3000 Metres,22 DEC 2018,8:49.77,Madrid (ESP)
+30,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Indoor,3000 Metres,01 FEB 2020,8:24.86,"Velódromo Luis Puig, Valencia (ESP)"
+31,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Indoor,3000 Metres,29 JAN 2021,8:26.24,"Gallur, Madrid (ESP)"
+32,Hugo PRIETO,17 MAR 2000,ESP,986,1500m [1500m ind.],Indoor,3000 Metres,02 FEB 2022,8:14.84,"Velódromo Luis Puig, Valencia (ESP)"
+33,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,800 Metres,03 AUG 2019,1:59.49,Ninove (BEL)
+34,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,800 Metres,01 AUG 2020,1:57.21,Vught (NED)
+35,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,800 Metres,14 AUG 2021,1:54.44,"Provincial domain Huizingen, Huizingen (BEL)"
+36,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,800 Metres,22 MAY 2022,1:51.66,"Avlo Atletiekclub, Lokeren (BEL)"
+37,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,1500 Metres,18 JUL 2020,3:57.04,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)"
+38,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,1500 Metres,17 JUL 2021,3:50.62,"VITA Atletiek, Ninove (BEL)"
+39,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,1500 Metres,30 JUL 2022,3:48.01,"Netestadion, Lier (BEL)"
+40,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,3000 Metres,18 MAY 2019,8:48.84,Lisse (NED)
+41,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,3000 Metres,16 MAY 2021,8:16.33,"U-Track, Utrecht (NED)"
+42,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,5000 Metres,07 JUN 2019,14:54.45,"De Bongerd, Wageningen (NED)"
+43,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,5000 Metres,13 SEP 2020,15:12.22,"Atletikebaan Schothorst, Amersfoort (NED)"
+44,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Outdoor,5000 Metres,06 AUG 2021,14:33.90,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)"
+45,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Indoor,800 Metres,05 FEB 2022,1:58.64,"Omnisport, Apeldoorn (NED)"
+46,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Indoor,1500 Metres,13 FEB 2022,3:51.30,"Omnisport, Apeldoorn (NED)"
+47,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Indoor,3000 Metres,15 FEB 2020,8:31.57,"Omnisport, Apeldoorn (NED)"
+48,Duncan STEENBAKKER,17 OCT 2001,NED,986,1500m [1500m ind.],Indoor,3000 Metres,27 FEB 2022,8:32.38,"Omnisport, Apeldoorn (NED)"
+49,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,800 Metres,06 JUL 2016,1:58.79,Lyon (FRA)
+50,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,800 Metres,24 JUN 2017,1:56.02,Decines (FRA)
+51,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,800 Metres,30 JUN 2018,1:54.28,Aix-les-Bains (FRA)
+52,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,800 Metres,29 SEP 2019,1:56.80,Grenoble (FRA)
+53,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,800 Metres,19 SEP 2020,1:51.57,"Stade Municipal, Ambilly (FRA)"
+54,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,800 Metres,04 JUN 2022,1:52.12,"Stade Municipal, Ambilly (FRA)"
+55,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,1000 Metres,15 APR 2022,2:25.99,Caluire (FRA)
+56,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,1500 Metres,10 JUN 2017,3:58.42,Villefranche-sur-Saone (FRA)
+57,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,1500 Metres,01 JUN 2018,3:53.72,Montbéliard (FRA)
+58,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,1500 Metres,03 AUG 2019,3:54.57,Ninove (BEL)
+59,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,1500 Metres,23 SEP 2020,3:49.43,"Stade Régional G. Hebert, Reims (FRA)"
+60,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,1500 Metres,11 JUN 2021,3:47.48,"Stade Du Moulin Boisseau, Carquefou (FRA)"
+61,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,1500 Metres,09 JUL 2022,3:48.12,"Sportcentrum Wembley, Kortrijk (BEL)"
+62,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,10 Kilometres,05 JAN 2020,30:18,Nice (FRA)
+63,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,3000 Metres Steeplechase,05 MAY 2019,9:49.85,St-Etienne (FRA)
+64,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,3000 Metres Steeplechase,29 AUG 2020,9:05.61,"Stade Raymond Troussier, Decines (FRA)"
+65,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,3000 Metres Steeplechase,18 JUL 2021,9:04.76,"Stade R. Bobin, Bondoufle (FRA)"
+66,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,3000 Metres Steeplechase,28 MAY 2022,9:16.21,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+67,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,4x800 Metres Relay,08 OCT 2017,7:51.39,Salon-de-Provence (FRA)
+68,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,4x800 Metres Relay,14 OCT 2018,7:48.91,Obernai (FRA)
+69,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Outdoor,4x800 Metres Relay,13 OCT 2019,7:38.75,Blois (FRA)
+70,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Indoor,1500 Metres,20 JAN 2018,3:59.55,Lyon (FRA)
+71,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Indoor,1500 Metres,06 FEB 2022,3:54.58,"Salle Jean Pellez, Aubiére (FRA)"
+72,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Indoor,3000 Metres,26 JAN 2020,8:28.25,"Stadium Jean-Pellez, Aubiére (FRA)"
+73,Matisse VIREY,09 SEP 1997,FRA,986,1500m,Indoor,3000 Metres,05 FEB 2022,8:33.29,"Salle Jean Pellez, Aubiére (FRA)"
+74,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,400 Metres,20 JUL 2014,52.53,Viljandi (EST)
+75,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,28 JUL 2013,1:57.66,Tallinn (EST)
+76,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,27 JUN 2014,1:56.35,Rakvere (EST)
+77,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,09 AUG 2015,1:54.74,Tallinn (EST)
+78,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,17 JUL 2016,1:52.77,Tallinn (EST)
+79,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,11 JUN 2017,1:54.08,Valmiera (LAT)
+80,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,27 JUN 2018,1:53.76,Kohila (EST)
+81,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,10 JUL 2019,1:53.60,Kohila (EST)
+82,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,22 AUG 2020,1:53.78,"Rannastaadion, Pärnu (EST)"
+83,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,800 Metres,03 JUL 2022,1:52.85,"Rannastaadion, Pärnu (EST)"
+84,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1000 Metres,25 JUN 2016,2:28.43,Tallinn (EST)
+85,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1000 Metres,28 JUL 2020,2:25.2h,"Kalevi Keskstaadion, Tallinn (EST)"
+86,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,27 JUL 2013,4:06.03,Tallinn (EST)
+87,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,02 AUG 2014,4:03.82,Tallinn (EST)
+88,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,31 JUL 2015,3:54.78,Valmiera (LAT)
+89,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,10 JUN 2016,3:52.69,Valmiera (LAT)
+90,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,25 MAY 2017,3:51.00,Riga (LAT)
+91,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,07 JUL 2018,3:48.64,Lahti (FIN)
+92,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,05 JUN 2019,3:47.94,Lahti (FIN)
+93,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,26 AUG 2020,3:50.00,"Eläintarhan urheilukenttä, Helsinki (FIN)"
+94,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,19 JUN 2021,3:50.67,"Cluj Arena, Cluj-Napoca (ROU)"
+95,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,1500 Metres,29 JUL 2022,3:49.87,"Jāņa Daliņa Stadium, Valmiera (LAT)"
+96,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,One Mile,15 AUG 2013,4:29.48,Tallinn (EST)
+97,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,One Mile,19 AUG 2020,4:11.19,"Kohila staadion, Kohila (EST)"
+98,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,2000 Metres,18 JUL 2018,5:27.08,Viljandi (EST)
+99,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,2000 Metres,31 JUL 2019,5:25.93,Tartu (EST)
+100,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,2000 Metres,26 MAY 2021,5:24.63,"Kohila staadion, Kohila (EST)"
+101,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,2000 Metres,18 MAY 2022,5:22.91,"Kohila staadion, Kohila (EST)"
+102,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,3000 Metres,14 JUN 2015,8:50.23,Tartu (EST)
+103,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,3000 Metres,25 JUL 2016,8:42.01,Tallinn (EST)
+104,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,3000 Metres,25 JUN 2017,8:38.90,"Kaarlen kenttä, Vaasa (FIN)"
+105,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,3000 Metres,16 MAY 2018,8:25.05,Kohila (EST)
+106,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,3000 Metres,11 AUG 2019,8:20.07,"Stadion ŠC Sloboda, Varaždin (CRO)"
+107,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,3000 Metres,25 MAY 2022,8:16.39,Lahti (FIN)
+108,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,5000 Metres,05 JUL 2015,15:37.37,Rakvere (EST)
+109,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,5000 Metres,18 AUG 2019,14:59.39,Tallinn (EST)
+110,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,5000 Metres,11 JUL 2021,15:26.36,"Kergejõustiku staadion, Kääriku (EST)"
+111,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,10 Kilometres,02 OCT 2021,31:31,Tartu (EST)
+112,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Outdoor,3000 Metres Steeplechase,26 JUN 2013,10:10.17,Võru (EST)
+113,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,800 Metres,17 FEB 2013,1:59.08,Tallinn (EST)
+114,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,800 Metres,23 FEB 2014,1:58.24,Tartu (EST)
+115,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,800 Metres,24 JAN 2015,1:58.16,Tartu (EST)
+116,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,800 Metres,28 FEB 2016,1:57.79,Tallinn (EST)
+117,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,800 Metres,19 FEB 2017,1:55.66,Tallinn (EST)
+118,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,800 Metres,10 FEB 2018,1:53.83,Gent (BEL)
+119,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,800 Metres,10 FEB 2019,1:56.44,Tallinn (EST)
+120,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1000 Metres,08 JAN 2014,2:36.36,Tartu (EST)
+121,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1000 Metres,11 FEB 2016,2:34.62,Tallinn (EST)
+122,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1000 Metres,06 FEB 2017,2:29.12,Tallinn (EST)
+123,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1000 Metres,20 JAN 2018,2:26.95,Kuldiga (LAT)
+124,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1000 Metres,18 JAN 2020,2:28.81,"Vieglatlētikas manēža, Kuldiga (LAT)"
+125,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,16 FEB 2013,4:08.13,Tallinn (EST)
+126,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,22 FEB 2014,4:05.01,Tartu (EST)
+127,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,01 FEB 2015,4:04.39,Tallinn (EST)
+128,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,27 FEB 2016,4:04.06,Tallinn (EST)
+129,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,18 FEB 2017,3:58.22,Tallinn (EST)
+130,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,17 FEB 2018,3:55.09,Tallinn (EST)
+131,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,16 FEB 2019,4:00.44,Tallinn (EST)
+132,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,22 FEB 2020,4:00.05,"Lasnamäe Kergejõustikuhall, Tallinn (EST)"
+133,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,20 FEB 2021,3:57.05,"Lasnamäe Kergejõustikuhall, Tallinn (EST)"
+134,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,1500 Metres,26 FEB 2022,3:55.57,"Lasnamäe Kergejõustikuhall, Tallinn (EST)"
+135,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,2000 Metres,11 FEB 2015,5:40.05,Tallinn (EST)
+136,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,3000 Metres,26 JAN 2014,9:18.53,Tallinn (EST)
+137,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,3000 Metres,25 JAN 2015,8:51.15,Tartu (EST)
+138,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,3000 Metres,20 JAN 2016,8:56.93,Tartu (EST)
+139,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,3000 Metres,18 FEB 2018,8:27.85,Tallinn (EST)
+140,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,3000 Metres,17 FEB 2019,8:29.59,Tallinn (EST)
+141,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,3000 Metres,23 FEB 2020,8:33.05,"Lasnamäe Kergejõustikuhall, Tallinn (EST)"
+142,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,3000 Metres,21 FEB 2021,8:33.66,"Lasnamäe Kergejõustikuhall, Tallinn (EST)"
+143,Olavi ALLASE,28 MAY 1993,EST,985,"1500m [1500m ind.,2000m]",Indoor,3000 Metres,27 FEB 2022,8:27.98,"Lasnamäe Kergejõustikuhall, Tallinn (EST)"
+144,Justus MUASYA,15 MAY 2004,KEN,985,1500m,Outdoor,1500 Metres,02 JUL 2021,3:50.44,"Moi International Sports Centre, Kasarani, Nairobi (KEN)"
+145,Justus MUASYA,15 MAY 2004,KEN,985,1500m,Outdoor,1500 Metres,01 JUL 2022,3:45.83,"Nyayo National Stadium, Nairobi (KEN)"
+146,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,800 Metres,15 NOV 2020,1:57.51,Montevideo (URU)
+147,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,800 Metres,12 SEP 2021,1:53.87,Montevideo (URU)
+148,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,800 Metres,10 APR 2022,1:50.41,Concepción del Uruguay (ARG)
+149,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,1500 Metres,08 DEC 2020,4:01.08,Montevideo (URU)
+150,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,1500 Metres,16 OCT 2021,3:51.52,Guayaquil (ECU)
+151,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,1500 Metres,12 MAR 2022,3:48.96,Montevideo (URU)
+152,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,3000 Metres,20 SEP 2020,8:53.50,Montevideo (URU)
+153,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,3000 Metres,14 AUG 2021,8:26.50,Montevideo (URU)
+154,Gonzalo GERVASINI,04 OCT 2005,URU,985,1500m,Outdoor,4x400 Metres Relay Mixed,10 JUL 2021,3:51.13,Lima (PER)
+155,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,1500 Metres,03 JUL 2015,4:05.18,London (CAN)
+156,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,1500 Metres,15 JUL 2016,3:59.78,Guelph (CAN)
+157,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,1500 Metres,02 JUN 2017,3:57.64,Belleville (CAN)
+158,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,1500 Metres,20 APR 2018,3:58.66,"Princeton, NJ (USA)"
+159,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,1500 Metres,29 MAR 2019,3:56.07,"Richmond, VA (USA)"
+160,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,1500 Metres,03 APR 2021,3:54.65,"Franklin Field, Philadelphia, PA (USA)"
+161,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,1500 Metres,02 APR 2022,3:48.07,"Weaver Stadium, Princeton, NJ (USA)"
+162,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,3000 Metres,06 JUN 2015,8:39.29,Toronto (CAN)
+163,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,3000 Metres,19 JUL 2016,8:47.92,Toronto (CAN)
+164,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,3000 Metres,26 MAY 2017,8:39.47,Toronto (CAN)
+165,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,5000 Metres,06 MAY 2018,15:31.45,"Fairfax, VA (USA)"
+166,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,5000 Metres,09 APR 2021,14:34.69,"Temple Sports Complex, Philadelphia, PA (USA)"
+167,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,5000 Metres,22 APR 2022,14:23.56,"UVA Lanningan Field, Charlottesville, VA (USA)"
+168,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Outdoor,"10,000 Metres",16 APR 2021,30:08.23,"UVA Lanningan Field, Charlottesville, VA (USA)"
+169,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,800 Metres,12 FEB 2017,1:57.59,Toronto (CAN)
+170,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,1500 Metres,11 FEB 2017,4:04.93,Toronto (CAN)
+171,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,One Mile,27 JAN 2018,4:22.21,"Bethlehem, PA (USA)"
+172,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,One Mile,02 MAR 2019,4:10.92,"Boston, MA (USA)"
+173,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,One Mile,05 FEB 2022,4:08.83,"Armory Track, New York, NY (USA)"
+174,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,3000 Metres,06 MAR 2016,9:04.94,Toronto (CAN)
+175,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,3000 Metres,03 FEB 2018,8:43.44,NY (USA)
+176,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,3000 Metres,09 FEB 2019,8:25.88,"Boston, MA (USA)"
+177,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,3000 Metres,12 FEB 2022,8:08.32,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+178,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,5000 Metres,28 JAN 2022,14:25.76,"Ocean Breeze Athl. Complex, New York, NY (USA)"
+179,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,Distance Medley Relay,17 FEB 2018,9:59.75,"Kingston, RI (USA)"
+180,Luke JACIW-ZURAKOWSKY,1999,CAN,985,1500m [Mile ind.],Indoor,Distance Medley Relay,26 FEB 2022,9:58.72,"George Mason-Rec. Sports Complex, Fairfax, VA (USA)"
+181,Teun TER HAAR,21 MAR 2003,NED,985,1500m [1500m ind.],Outdoor,800 Metres,24 SEP 2021,1:55.09,"De Bongerd, Wageningen (NED)"
+182,Teun TER HAAR,21 MAR 2003,NED,985,1500m [1500m ind.],Outdoor,1500 Metres,05 JUN 2021,3:47.51,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+183,Teun TER HAAR,21 MAR 2003,NED,985,1500m [1500m ind.],Outdoor,1500 Metres,02 JUL 2022,3:47.00,"Stadion De Veen, Heusden-Zolder (BEL)"
+184,Teun TER HAAR,21 MAR 2003,NED,985,1500m [1500m ind.],Outdoor,3000 Metres,11 MAY 2022,8:08.59,"Birmingham University Athletics Track, Birmingham (GBR)"
+185,Teun TER HAAR,21 MAR 2003,NED,985,1500m [1500m ind.],Outdoor,5000 Metres,19 JUN 2022,15:04.64,"Sportpark Ookmeer, Amsterdam (NED)"
+186,Teun TER HAAR,21 MAR 2003,NED,985,1500m [1500m ind.],Outdoor,5 Kilometres,20 NOV 2021,14:54,Essen (GER)
+187,Teun TER HAAR,21 MAR 2003,NED,985,1500m [1500m ind.],Indoor,1500 Metres,26 FEB 2022,3:54.84,"Omnisport, Apeldoorn (NED)"
+188,Teun TER HAAR,21 MAR 2003,NED,985,1500m [1500m ind.],Indoor,3000 Metres,19 FEB 2022,8:25.03,"Omnisport, Apeldoorn (NED)"
+189,Nao KURIHARA,17 OCT 2002,JPN,985,1500m,Outdoor,800 Metres,26 SEP 2021,1:49.73,"NITTAIDAI Athletic Stadium, Yokohama (JPN)"
+190,Nao KURIHARA,17 OCT 2002,JPN,985,1500m,Outdoor,800 Metres,21 MAY 2022,1:51.73,"National Stadium, Tokyo (JPN)"
+191,Nao KURIHARA,17 OCT 2002,JPN,985,1500m,Outdoor,1500 Metres,14 JUN 2019,3:53.27,"Prefectural Kasamatsu Stadium, Hitachinaka (JPN)"
+192,Nao KURIHARA,17 OCT 2002,JPN,985,1500m,Outdoor,1500 Metres,23 OCT 2020,3:54.22,"Edion Stadium, Hiroshima (JPN)"
+193,Nao KURIHARA,17 OCT 2002,JPN,985,1500m,Outdoor,1500 Metres,24 JUL 2021,3:46.91,"Toneri Park Athletic Field, Tokyo (JPN)"
+194,Nao KURIHARA,17 OCT 2002,JPN,985,1500m,Outdoor,1500 Metres,20 MAR 2022,3:47.65,"Mikio Oda Memorial Athletic Field, Tokorozawa (JPN)"
+195,Nao KURIHARA,17 OCT 2002,JPN,985,1500m,Outdoor,5000 Metres,05 DEC 2021,14:30.18,"NITTAIDAI Athletic Stadium, Yokohama (JPN)"
+196,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,800 Metres,18 JUL 2020,1:56.81,"Complexo Desportivo de Lousada, Lousada (POR)"
+197,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,800 Metres,23 MAY 2021,1:57.68,Guimarães (POR)
+198,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,800 Metres,29 MAY 2022,1:55.06,"Pista de Atletismo Gemeos Castro, Guimarães (POR)"
+199,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,1500 Metres,23 JUN 2021,3:52.09,"Estádio José Vieira de Carvalho, Maia (POR)"
+200,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,1500 Metres,25 JUN 2022,3:47.49,"Estádio Dr. Magalhães Pessoa, Leiria (POR)"
+201,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,3000 Metres,17 APR 2021,8:22.69,"Complexo Desportivo de Lousada, Lousada (POR)"
+202,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,5000 Metres,26 JUN 2021,14:30.33,"Estádio José Vieira de Carvalho, Maia (POR)"
+203,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,5000 Metres,20 JUL 2022,14:03.64,"Estádio Municipal Manuela Machado, Viana de Castelo (POR)"
+204,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Outdoor,10 Kilometres,04 SEP 2021,32:09,Felgueiras (POR)
+205,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Indoor,800 Metres,08 MAR 2020,1:58.13,"Altice Forum, Braga (POR)"
+206,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Indoor,800 Metres,14 FEB 2021,1:56.62,"Altice Forum, Braga (POR)"
+207,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Indoor,800 Metres,22 JAN 2022,1:56.41,"Altice Forum, Braga (POR)"
+208,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Indoor,1500 Metres,21 FEB 2021,3:57.16,"Altice Forum, Braga (POR)"
+209,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Indoor,1500 Metres,05 FEB 2022,3:59.91,"Expocentro, Pombal (POR)"
+210,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Indoor,2000 Metres,30 DEC 2020,5:30.38,Braga (POR)
+211,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Indoor,3000 Metres,06 MAR 2021,8:35.57,"Expocentro, Pombal (POR)"
+212,Bernardo ROCHA,07 SEP 2000,POR,984,1500m,Indoor,3000 Metres,06 MAR 2022,8:26.59,"Expocentro, Pombal (POR)"
+213,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,800 Metres,08 AUG 2015,1:57.05,Kessel-Lo (BEL)
+214,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,800 Metres,30 JUL 2016,1:52.41,Kessel-Lo (BEL)
+215,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,800 Metres,10 JUN 2017,1:50.64,Huizingen (BEL)
+216,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,800 Metres,04 AUG 2018,1:50.15,Kessel-Lo (BEL)
+217,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,800 Metres,01 MAY 2019,1:51.00,Herentals (BEL)
+218,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,800 Metres,22 AUG 2020,1:54.61,Lokeren (BEL)
+219,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,800 Metres,23 APR 2022,1:55.69,"Koninklijke Atletiek Club, Duffel (BEL)"
+220,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1000 Metres,09 SEP 2016,2:32.26,"Boudewijnstadion, Bruxelles (BEL)"
+221,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1000 Metres,01 SEP 2017,2:24.34,"Boudewijnstadion, Bruxelles (BEL)"
+222,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1500 Metres,22 AUG 2015,3:55.91,Merksem (BEL)
+223,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1500 Metres,04 JUN 2016,3:48.40,Oordegem (BEL)
+224,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1500 Metres,27 MAY 2017,3:44.21,Oordegem (BEL)
+225,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1500 Metres,21 JUL 2018,3:42.01,Heusden-Zolder (BEL)
+226,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1500 Metres,01 JUN 2019,3:41.10,Oordegem (BEL)
+227,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1500 Metres,06 SEP 2020,3:38.15,"Stadion De Veen, Heusden-Zolder (BEL)"
+228,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,1500 Metres,31 JUL 2022,3:52.20,"Stade Jean Jacoby, Schifflange (LUX)"
+229,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,One Mile,15 JUN 2017,4:05.11,"Bislett Stadion, Oslo (NOR)"
+230,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,2000 Metres,11 AUG 2018,5:15.96,Mol (BEL)
+231,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,2000 Metres,01 AUG 2021,5:15.04,"Sportcentrum Den Uyt, Mol (BEL)"
+232,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres,01 MAY 2016,8:19.67,Herentals (BEL)
+233,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres,01 MAY 2017,8:00.21,Herentals (BEL)
+234,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres,01 MAY 2018,8:06.26,Herentals (BEL)
+235,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres,09 JUN 2019,8:02.01,Rehlingen (GER)
+236,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres,30 AUG 2020,8:08.75,"Domein Drie Fonteinen Piste, Vilvoorde (BEL)"
+237,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres,14 AUG 2021,7:54.40,"Provincial domain Huizingen, Huizingen (BEL)"
+238,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres,01 MAY 2022,7:51.75,"Sport Vlaanderen Herentals, Herentals (BEL)"
+239,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,2000 Metres Steeplechase,22 MAY 2016,5:47.90,Duffel (BEL)
+240,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,2000 Metres Steeplechase,06 AUG 2017,5:43.52,Kapellen (BEL)
+241,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,26 MAY 2018,8:49.89,Oordegem (BEL)
+242,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,25 MAY 2019,8:33.80,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+243,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,11 AUG 2020,8:38.75,"Paavo Nurmi Stadium, Turku (FIN)"
+244,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,24 AUG 2021,8:46.32,"Bungertstadion, Rehlingen (GER)"
+245,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,14 JUN 2022,8:24.56,"Paavo Nurmi Stadium, Turku (FIN)"
+246,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Indoor,1500 Metres,31 JAN 2016,3:58.72,Gent (BEL)
+247,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Indoor,1500 Metres,29 JAN 2017,3:55.38,Gent (BEL)
+248,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Indoor,1500 Metres,03 MAR 2018,3:56.70,Gent (BEL)
+249,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Indoor,1500 Metres,27 JAN 2019,3:49.01,Gent (BEL)
+250,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Indoor,1500 Metres,26 JAN 2020,3:51.76,"Topsporthal Vlaanderen, Gent (BEL)"
+251,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Indoor,1500 Metres,20 FEB 2021,3:46.33,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)"
+252,Tim VAN DE VELDE,01 FEB 2000,BEL,984,1500m [1500m ind.],Indoor,1500 Metres,26 FEB 2022,3:49.63,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)"
+253,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,200 Metres,08 JUN 2013,23.43,Caprino Veronese (ITA)
+254,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,300 Metres,15 APR 2018,35.56,Rovereto (ITA)
+255,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres,17 SEP 2014,51.40,Trento (ITA)
+256,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres,27 JUN 2015,51.10,Caprino Veronese (ITA)
+257,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres,04 JUN 2016,50.17,Bovolone (ITA)
+258,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres,01 JUN 2017,49.46,Ponzano Veneto (ITA)
+259,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres,25 APR 2018,49.45,Piombino Dese (ITA)
+260,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres,05 JUL 2020,49.91,"Piazzale Adolfo Consolini, Vittorio Veneto (ITA)"
+261,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres,08 MAY 2021,49.53,"Campo Scuola G. Perraro, Vicenza (ITA)"
+262,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres,23 JUL 2022,51.17,"Stadio Giuseppe Grezar, Trieste (ITA)"
+263,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,500 Metres,18 APR 2021,1:03.08,"Campo Coni, Pavia (ITA)"
+264,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,500 Metres,30 JUL 2022,1:04.38,"Stadio G. Teghil, Lignano Sabbiadoro (ITA)"
+265,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,06 SEP 2014,2:00.59,Brugnera (ITA)
+266,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,05 SEP 2015,1:57.30,Brugnera (ITA)
+267,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,15 JUN 2016,1:52.55,Conegliano (ITA)
+268,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,20 JUN 2017,1:50.14,Scandiano (ITA)
+269,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,02 SEP 2018,1:46.93,Padova (ITA)
+270,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,29 MAY 2019,1:48.93,Savona (ITA)
+271,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,09 SEP 2020,1:50.84,"Campo Communale, Modena (ITA)"
+272,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,06 JUN 2021,1:48.52,"Piazzale Adolfo Consolini, Vittorio Veneto (ITA)"
+273,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,800 Metres,11 JUN 2022,1:49.97,"Stadio Narciso Soldan, Conegliano (ITA)"
+274,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,1500 Metres,13 SEP 2020,3:50.26,"Stadio Giuseppe Grezar, Trieste (ITA)"
+275,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,1500 Metres,03 SEP 2021,3:48.76,"Impianto Comunale, Bussolengo (ITA)"
+276,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,1500 Metres,25 MAY 2022,3:46.62,"Campo Comunale, Zogno (ITA)"
+277,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,400 Metres Hurdles,13 OCT 2013,58.61,Modena (ITA)
+278,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,4x400 Metres Relay,24 JUN 2018,3:15.25,Bergamo (ITA)
+279,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,4x400 Metres Relay,16 JUN 2019,3:13.18,Firenze (ITA)
+280,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,4x400 Metres Relay,27 JUN 2021,3:14.28,"Stadio Quercia, Rovereto (ITA)"
+281,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Outdoor,4x400 Metres Relay,05 JUN 2022,3:15.54,"Stadio Luigi Ridolfi, Firenze (ITA)"
+282,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,400 Metres,08 FEB 2014,50.35,Ancona (ITA)
+283,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,400 Metres,31 JAN 2016,50.64,Padova (ITA)
+284,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,400 Metres,15 JAN 2017,50.10,Padova (ITA)
+285,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,400 Metres,14 JAN 2018,50.02,Padova (ITA)
+286,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,400 Metres,26 JAN 2020,50.83,"Palaindoor, Padova (ITA)"
+287,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,400 Metres,30 JAN 2021,49.98,"Palaindoor, Padova (ITA)"
+288,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,400 Metres,06 FEB 2022,50.62,"Palaindoor, Padova (ITA)"
+289,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,500 Metres,29 JAN 2022,1:05.21,"Palaindoor, Padova (ITA)"
+290,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,800 Metres,25 JAN 2015,2:01.40,Padova (ITA)
+291,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,800 Metres,07 FEB 2016,1:55.59,Ancona (ITA)
+292,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,800 Metres,21 JAN 2017,1:51.91,Padova (ITA)
+293,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,800 Metres,18 FEB 2018,1:51.04,Ancona (ITA)
+294,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,800 Metres,26 JAN 2019,1:50.37,Wien (AUT)
+295,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,800 Metres,25 JAN 2020,1:52.06,"Palaindoor, Padova (ITA)"
+296,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,800 Metres,31 JAN 2021,1:51.45,"Palaindoor, Padova (ITA)"
+297,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,800 Metres,05 FEB 2022,1:51.42,"Palaindoor, Padova (ITA)"
+298,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,1500 Metres,14 FEB 2021,3:55.18,"Palaindoor, Padova (ITA)"
+299,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,1500 Metres,09 JAN 2022,3:59.48,"Palaindoor, Padova (ITA)"
+300,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,4x400 Metres Relay,21 FEB 2021,3:17.90,"Palaindoor Ancona, Ancona (ITA)"
+301,Enrico BRAZZALE,03 AUG 1995,ITA,983,1500m,Indoor,4x400 Metres Relay,27 FEB 2022,3:20.78,"Palaindoor Ancona, Ancona (ITA)"
+302,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Outdoor,800 Metres,09 JUN 2019,1:54.98,"Portland, OR (USA)"
+303,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Outdoor,800 Metres,07 MAY 2022,1:49.81,"Griswold Stadium, Portland, OR (USA)"
+304,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Outdoor,1500 Metres,15 APR 2022,3:45.77,"Cougar Athletic Stadium, Azusa, CA (USA)"
+305,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Outdoor,One Mile,30 APR 2022,4:05.10,"Civic Stadium, Bellingham, WA (USA)"
+306,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Outdoor,3000 Metres Steeplechase,31 MAR 2022,9:12.25,"San Francisco St. Cox Stadium, San Francisco, CA (USA)"
+307,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Indoor,800 Metres,22 FEB 2020,1:55.69,"Ford Idaho Ctr. Jacksons Track, Nampa, ID (USA)"
+308,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Indoor,800 Metres,21 FEB 2022,1:51.55,"The Podium, Spokane, WA (USA)"
+309,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Indoor,One Mile,05 FEB 2022,4:19.14,"The Podium, Spokane, WA (USA)"
+310,Andrew WEBER,,USA,983,"1500m [Mile,Mile ind.]",Indoor,Distance Medley Relay,04 FEB 2022,9:50.83,"The Podium, Spokane, WA (USA)"
+311,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Outdoor,800 Metres,26 MAY 2017,1:56.45,Toronto (CAN)
+312,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Outdoor,800 Metres,09 JUN 2018,1:59.19,Toronto (CAN)
+313,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Outdoor,800 Metres,15 JUN 2019,1:55.73,Toronto (CAN)
+314,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Outdoor,800 Metres,05 JUL 2022,1:54.40,"Varsity Stadium, Toronto (CAN)"
+315,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Outdoor,1500 Metres,08 JUN 2018,3:59.32,Toronto (CAN)
+316,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Outdoor,1500 Metres,17 JUL 2019,3:56.09,Guelph (CAN)
+317,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Outdoor,1500 Metres,08 JUN 2022,3:51.00,"Alumni Stadium, Guelph (CAN)"
+318,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,1000 Metres,22 FEB 2019,2:31.19,Toronto (CAN)
+319,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,1000 Metres,25 JAN 2020,2:27.82,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+320,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,1000 Metres,18 MAR 2022,2:24.79,"Track and Field Centre, Toronto (CAN)"
+321,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,1500 Metres,12 JAN 2019,4:07.55,Toronto (CAN)
+322,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,1500 Metres,18 JAN 2020,4:00.80,"Thompson Arena, London (CAN)"
+323,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,1500 Metres,05 MAR 2022,3:49.56,"Thompson Arena, London (CAN)"
+324,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,One Mile,26 JAN 2019,4:19.90,"Boston, MA (USA)"
+325,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,3000 Metres,20 NOV 2018,8:59.65,London (CAN)
+326,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,3000 Metres,19 NOV 2019,8:51.92,"Thompson Arena, London (CAN)"
+327,Erik OHRLING,2000,CAN,983,1500m [1500m ind.],Indoor,4x800 Metres Relay,21 FEB 2020,7:46.46,"Track and Field Centre, Toronto (CAN)"
+328,Jaden FORESTER,,USA,983,1500m [Mile ind.],Outdoor,800 Metres,20 MAR 2021,1:54.33,"University of Louisiana, Lafayette, LA (USA)"
+329,Jaden FORESTER,,USA,983,1500m [Mile ind.],Outdoor,1500 Metres,10 APR 2021,3:51.63,"Ole Miss T&F Complex, Oxford, MS (USA)"
+330,Jaden FORESTER,,USA,983,1500m [Mile ind.],Outdoor,1500 Metres,24 MAR 2022,3:49.65,"Mike A. Myers Stadium, Austin, TX (USA)"
+331,Jaden FORESTER,,USA,983,1500m [Mile ind.],Indoor,One Mile,01 MAR 2021,4:16.95,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+332,Jaden FORESTER,,USA,983,1500m [Mile ind.],Indoor,One Mile,28 FEB 2022,4:11.35,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+333,Jaden FORESTER,,USA,983,1500m [Mile ind.],Indoor,3000 Metres,01 MAR 2021,8:29.24,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+334,Jaden FORESTER,,USA,983,1500m [Mile ind.],Indoor,3000 Metres,06 FEB 2022,8:31.02,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+335,Jaden FORESTER,,USA,983,1500m [Mile ind.],Indoor,Distance Medley Relay,27 FEB 2022,9:58.32,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+336,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,800 Metres,26 JUL 2020,1:59.47,"Sportpark Hertog Jan, Dongen (NED)"
+337,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,800 Metres,16 JUL 2021,1:52.16,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)"
+338,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,800 Metres,13 MAY 2022,1:50.46,"U-Track, Utrecht (NED)"
+339,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,1500 Metres,15 AUG 2020,4:00.32,"Atletiekbaan Brakkenstein, Nijmegen (NED)"
+340,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,1500 Metres,26 JUN 2021,3:44.87,"AV Sprint Breda, Breda (NED)"
+341,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,1500 Metres,06 JUN 2022,3:43.49,"Blankers-Koen Stadion, Hengelo (NED)"
+342,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,3000 Metres,28 JUN 2019,8:55.70,Alphen aan den Rijn (NED)
+343,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,3000 Metres,18 JUL 2020,8:51.63,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)"
+344,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,3000 Metres,16 MAY 2021,8:17.52,"U-Track, Utrecht (NED)"
+345,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,3000 Metres,08 MAY 2022,8:04.17,"Schönbuchstadion, Pliezhausen (GER)"
+346,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,5000 Metres,28 MAY 2022,13:57.78,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+347,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Outdoor,5 Kilometres,31 DEC 2021,14:22,Barcelona (ESP)
+348,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Indoor,1500 Metres,20 FEB 2022,3:49.51,"Omnisport, Apeldoorn (NED)"
+349,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Indoor,3000 Metres,15 FEB 2020,8:51.78,"Omnisport, Apeldoorn (NED)"
+350,Niels LAROS,17 APR 2005,NED,982,1500m [1500m ind.],Indoor,3000 Metres,27 FEB 2022,8:26.44,"Omnisport, Apeldoorn (NED)"
+351,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,800 Metres,14 SEP 2013,2:04.58,Rhede (GER)
+352,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,800 Metres,16 JUL 2016,1:52.48,St. Wendel (GER)
+353,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,800 Metres,18 MAR 2017,1:53.85,"Charlotte, NC (USA)"
+354,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,800 Metres,20 APR 2018,1:51.25,"Charlotte, NC (USA)"
+355,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,800 Metres,20 APR 2019,1:54.27,"Hickory, NC (USA)"
+356,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,800 Metres,05 JUL 2020,1:56.79,"Carl-Kaufmann-Stadion, Karlsruhe (GER)"
+357,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,800 Metres,25 JUN 2021,1:55.05,"Michael-Hoffmann-Stadion, Mannheim (GER)"
+358,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,800 Metres,19 MAR 2022,1:57.40,"Sun Angel Stadium, Tempe, AZ (USA)"
+359,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,25 MAY 2014,4:09.32,Karlsbad (GER)
+360,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,23 MAY 2015,3:52.34,Ellwangen (GER)
+361,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,20 MAY 2016,3:50.31,Karlsruhe (GER)
+362,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,11 JUN 2017,3:45.81,Regensburg (GER)
+363,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,30 MAR 2018,3:48.02,"Raleigh, NC (USA)"
+364,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,13 APR 2019,3:45.99,"Lewisburg, PA (USA)"
+365,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,15 AUG 2020,3:42.88,"Stadion Rote Erde, Dortmund (GER)"
+366,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,06 JUN 2021,3:40.35,"Eintracht-Stadion, Braunschweig (GER)"
+367,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,1500 Metres,15 APR 2022,3:43.42,"Cougar Athletic Stadium, Azusa, CA (USA)"
+368,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,One Mile,12 JUL 2017,4:13.12,Schorndorf (GER)
+369,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,One Mile,22 AUG 2020,4:08.63,"Stade Municipal, Diekirch (LUX)"
+370,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,3000 Metres,20 JUL 2012,8:47.15,Mönchengladbach (GER)
+371,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,3000 Metres,03 JUL 2013,8:50.15,Pfungstadt (GER)
+372,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,3000 Metres,10 AUG 2014,8:34.21,"Wattenscheid, Bochum (GER)"
+373,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,3000 Metres,15 JUL 2015,8:15.97,Mannheim (GER)
+374,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,3000 Metres,13 JUL 2019,8:23.02,Walldorf (GER)
+375,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,3000 Metres,24 APR 2021,8:08.56,"Staudingerstadion, Freiburg (GER)"
+376,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,5000 Metres,29 MAR 2019,14:19.67,"Raleigh, NC (USA)"
+377,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,5000 Metres,25 JUL 2020,14:32.07,"Sportanlage am Weinweg, Regensburg (GER)"
+378,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,5000 Metres,01 APR 2022,14:46.33,"Hayward Field, Eugene, OR (USA)"
+379,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,10 Kilometres,06 SEP 2015,30:35,Bad Liebenzell (GER)
+380,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,10 Kilometres,21 MAR 2021,29:57,Dresden (GER)
+381,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,2000 Metres Steeplechase,09 AUG 2014,5:56.20,"Wattenscheid, Bochum (GER)"
+382,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Outdoor,3000 Metres Steeplechase,26 APR 2015,9:29.71,Karlsruhe (GER)
+383,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,800 Metres,27 JAN 2016,1:59.40,Karlsruhe (GER)
+384,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,800 Metres,24 FEB 2019,1:57.26,"Winston Salem, NC (USA)"
+385,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,800 Metres,01 FEB 2020,1:51.34,"South Carolina Indoor T&F Complex, Columbia, SC (USA)"
+386,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,1000 Metres,19 JAN 2020,2:32.86,"JDL Fast Track, Winston Salem, NC (USA)"
+387,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,1500 Metres,01 FEB 2014,4:01.60,"Europahalle, Karlsruhe (GER)"
+388,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,1500 Metres,31 JAN 2015,3:54.28,"Messehalle, Karlsruhe (GER)"
+389,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,1500 Metres,31 JAN 2016,3:53.73,Sindelfingen (GER)
+390,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,1500 Metres,21 FEB 2021,3:49.00,"Helmut-Körnig-Halle, Dortmund (GER)"
+391,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,One Mile,02 FEB 2018,4:09.26,"Winston Salem, NC (USA)"
+392,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,One Mile,01 FEB 2019,4:17.08,"Winston Salem, NC (USA)"
+393,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,One Mile,07 FEB 2020,4:14.08,"JDL Fast Track, Winston Salem, NC (USA)"
+394,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,One Mile,05 FEB 2022,4:08.30,"The Podium, Spokane, WA (USA)"
+395,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,3000 Metres,16 FEB 2014,8:49.87,Sindelfingen (GER)
+396,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,3000 Metres,25 JAN 2015,8:35.33,Sindelfingen (GER)
+397,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,3000 Metres,23 JAN 2016,8:30.14,Karlsruhe (GER)
+398,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,3000 Metres,26 FEB 2017,8:15.69,"Fairfax, VA (USA)"
+399,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,3000 Metres,22 FEB 2020,8:27.98,"JDL Fast Track, Winston Salem, NC (USA)"
+400,Felix WAMMETSBERGER,06 JUL 1995,GER,982,1500m [Mile ind.],Indoor,Distance Medley Relay,21 JAN 2018,9:57.83,"Winston Salem, NC (USA)"
+401,Chandon CHHIKARA,,USA,982,1500m [Mile ind.],Outdoor,800 Metres,24 APR 2021,1:52.75,"Rice University Ley Track/Holloway Field, Houston, TX (USA)"
+402,Chandon CHHIKARA,,USA,982,1500m [Mile ind.],Outdoor,800 Metres,06 MAY 2022,1:51.49,"Tom Tellez Track, Houston, TX (USA)"
+403,Chandon CHHIKARA,,USA,982,1500m [Mile ind.],Outdoor,1500 Metres,29 MAY 2021,3:46.40,"Griswold Stadium, Portland, OR (USA)"
+404,Chandon CHHIKARA,,USA,982,1500m [Mile ind.],Outdoor,1500 Metres,30 APR 2022,3:47.83,"Cushing Stadium, College Station, TX (USA)"
+405,Chandon CHHIKARA,,USA,982,1500m [Mile ind.],Outdoor,5000 Metres,03 JUN 2021,14:19.37,"Griswold Stadium, Portland, OR (USA)"
+406,Chandon CHHIKARA,,USA,982,1500m [Mile ind.],Outdoor,5000 Metres,13 MAY 2022,14:06.02,"Cougar Athletic Stadium, Azusa, CA (USA)"
+407,Chandon CHHIKARA,,USA,982,1500m [Mile ind.],Indoor,800 Metres,12 FEB 2022,1:56.81,"Randal Tyson Indoor Center, Fayetteville, AR (USA)"
+408,Chandon CHHIKARA,,USA,982,1500m [Mile ind.],Indoor,One Mile,27 FEB 2022,4:05.80,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+409,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,800 Metres,14 APR 2018,1:55.34,"La Jolla, CA (USA)"
+410,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,800 Metres,13 APR 2019,2:00.01,"College Station, TX (USA)"
+411,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,800 Metres,09 MAR 2021,1:53.70,"Rice University Ley Track/Holloway Field, Houston, TX (USA)"
+412,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,800 Metres,17 MAR 2022,1:53.82,"Tom Tellez Track, Houston, TX (USA)"
+413,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,1500 Metres,04 MAY 2018,3:49.82,"Fayetteville, AR (USA)"
+414,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,1500 Metres,22 MAR 2019,3:49.93,"Houston, TX (USA)"
+415,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,1500 Metres,24 APR 2021,3:46.24,"Rice University Ley Track/Holloway Field, Houston, TX (USA)"
+416,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,1500 Metres,15 APR 2022,3:45.42,"Cougar Athletic Stadium, Azusa, CA (USA)"
+417,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,5000 Metres,13 MAY 2018,15:22.80,"Houston, TX (USA)"
+418,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,5000 Metres,12 MAY 2019,14:58.93,"Charlotte, NC (USA)"
+419,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,5000 Metres,15 MAY 2022,15:06.01,"Park West Ath. Complex, San Antonio, TX (USA)"
+420,Alex TOPINI,,USA,982,1500m [Mile ind.],Outdoor,3000 Metres Steeplechase,06 APR 2018,9:34.14,"Nacogdoches, TX (USA)"
+421,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,800 Metres,26 JAN 2019,1:59.85,"Houston, TX (USA)"
+422,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,One Mile,17 FEB 2018,4:16.65,"Birmingham, AL (USA)"
+423,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,One Mile,02 FEB 2019,4:11.04,"College Station, TX (USA)"
+424,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,One Mile,31 JAN 2020,4:10.75,"Houston-Yeoman FH, Houston, TX (USA)"
+425,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,One Mile,21 FEB 2021,4:07.13,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+426,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,One Mile,20 FEB 2022,4:12.08,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+427,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,3000 Metres,03 FEB 2018,8:29.99,"College Station, TX (USA)"
+428,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,3000 Metres,24 FEB 2019,8:27.18,"Boston, MA (USA)"
+429,Alex TOPINI,,USA,982,1500m [Mile ind.],Indoor,3000 Metres,29 FEB 2020,8:17.76,"Houston-Yeoman FH, Houston, TX (USA)"
+430,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,800 Metres,08 JUN 2016,1:56.21,Lousada (POR)
+431,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,800 Metres,09 JUL 2017,1:55.37,Marinha Grande (POR)
+432,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,800 Metres,31 MAY 2018,1:55.58,Marinha Grande (POR)
+433,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,800 Metres,25 MAY 2019,1:56.65,Marinha Grande (POR)
+434,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,800 Metres,15 AUG 2020,1:52.61,Vagos (POR)
+435,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,800 Metres,08 MAY 2021,1:55.34,Vagos (POR)
+436,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,800 Metres,04 JUN 2022,1:52.53,Salamanca (ESP)
+437,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,1000 Metres,16 APR 2022,2:26.95,Vagos (POR)
+438,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,1500 Metres,12 JUL 2017,3:53.16,Maia (POR)
+439,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,1500 Metres,12 MAY 2018,3:51.81,Lisboa (POR)
+440,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,1500 Metres,27 JUL 2019,3:59.07,Leiria (POR)
+441,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,1500 Metres,09 MAY 2021,3:57.15,Maia (POR)
+442,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,1500 Metres,23 JUL 2022,3:47.01,"Estádio José Vieira de Carvalho, Maia (POR)"
+443,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,3000 Metres,03 JUN 2017,8:36.39,Abrantes (POR)
+444,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,3000 Metres,16 JUN 2018,8:45.94,Abrantes (POR)
+445,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,3000 Metres,19 JAN 2020,8:38.91,Vagos (POR)
+446,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,3000 Metres,09 JAN 2022,8:33.04,Luso (POR)
+447,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,2000 Metres Steeplechase,18 JUL 2020,5:47.56,Vagos (POR)
+448,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,10 JUN 2019,9:02.77,Lisboa (POR)
+449,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,01 AUG 2020,9:08.36,"Estadio Universitario, Lisboa (POR)"
+450,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,10 DEC 2021,9:33.51,Vagos (POR)
+451,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,25 JUN 2022,8:47.03,"Estádio Dr. Magalhães Pessoa, Leiria (POR)"
+452,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,800 Metres,14 FEB 2016,1:58.99,Braga (POR)
+453,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,800 Metres,26 FEB 2017,1:54.67,Pombal (POR)
+454,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,800 Metres,11 FEB 2018,1:54.52,Pombal (POR)
+455,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,800 Metres,10 FEB 2019,1:53.95,Pombal (POR)
+456,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,800 Metres,25 JAN 2020,1:53.10,Pombal (POR)
+457,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,800 Metres,22 JAN 2022,1:52.26,"Expocentro, Pombal (POR)"
+458,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,1500 Metres,18 FEB 2017,3:59.93,Pombal (POR)
+459,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,1500 Metres,03 FEB 2018,3:54.00,Pombal (POR)
+460,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,1500 Metres,16 FEB 2019,3:52.57,Braga (POR)
+461,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,1500 Metres,04 JAN 2020,3:52.60,"Estádio Municipal de Leiria, Pombal (POR)"
+462,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,1500 Metres,26 DEC 2020,4:00.25,"Expocentro, Pombal (POR)"
+463,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,1500 Metres,05 FEB 2022,3:52.98,"Expocentro, Pombal (POR)"
+464,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,3000 Metres,18 FEB 2018,8:35.97,Pombal (POR)
+465,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,3000 Metres,03 MAR 2019,8:28.31,Pombal (POR)
+466,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,3000 Metres,01 MAR 2020,8:24.93,"Expocentro, Pombal (POR)"
+467,Tomás SILVA,20 SEP 1998,POR,982,1500m [1500m ind.],Indoor,3000 Metres,20 FEB 2022,8:15.09,"Expocentro, Pombal (POR)"
+468,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Outdoor,600 Metres,29 APR 2022,1:23.73,"Stade Colette Besson, Saran (FRA)"
+469,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Outdoor,800 Metres,30 JUN 2018,1:59.36,Challans (FRA)
+470,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Outdoor,800 Metres,09 JUN 2019,1:59.86,Blois (FRA)
+471,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Outdoor,800 Metres,14 JUL 2021,1:56.52,"Stade Colette Besson, Saran (FRA)"
+472,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Outdoor,800 Metres,08 MAY 2022,1:53.94,"Stade Colette Besson, Saran (FRA)"
+473,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Outdoor,1000 Metres,29 APR 2022,2:32.74,"Stade Colette Besson, Saran (FRA)"
+474,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Outdoor,1500 Metres,25 JUN 2021,3:55.17,"Stade Colette Besson, Saran (FRA)"
+475,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Outdoor,1500 Metres,22 JUN 2022,3:48.76,"Stade Adolphe Cheron, St-Maur (FRA)"
+476,Tiago RIBEIRO,07 SEP 1997,POR,982,1500m [1500m ind.],Indoor,1500 Metres,13 FEB 2022,3:53.86,"Halle Stéphane Diagana, Lyon (FRA)"
+477,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,800 Metres,27 APR 2019,1:56.18,Chambéry (FRA)
+478,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,800 Metres,19 SEP 2020,1:51.59,"Stade Municipal, Ambilly (FRA)"
+479,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,800 Metres,30 MAY 2021,1:50.32,"Stade Jean Balestas, St-Egreve (FRA)"
+480,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,1500 Metres,11 JUL 2019,3:50.57,Bron (FRA)
+481,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,1500 Metres,03 SEP 2020,3:45.52,"Stade Delort, Marseille (FRA)"
+482,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,1500 Metres,01 JUN 2021,3:44.68,"Stade des Grands Pêchers, Montreuil (FRA)"
+483,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,1500 Metres,18 JUN 2022,3:43.80,"TSV Stadion, Pfungstadt (GER)"
+484,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,5000 Metres,15 JUN 2019,14:49.51,Bron (FRA)
+485,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,10 Kilometres,20 OCT 2019,30:02,Montereau (FRA)
+486,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,10 Kilometres,08 MAR 2020,29:58,Bourg-en-Bresse (FRA)
+487,Romain WYNDAELE,30 JUL 1996,FRA,981,1500m,Outdoor,10 Kilometres,26 SEP 2021,30:35,Tours (FRA)
+488,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Outdoor,800 Metres,15 AUG 2020,1:55.00,"Université de Sherbrooke, Sherbrooke (CAN)"
+489,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Outdoor,800 Metres,31 JUL 2021,1:53.11,"Université de Sherbrooke, Sherbrooke (CAN)"
+490,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Outdoor,1500 Metres,12 SEP 2020,3:56.10,"Piste Ben Leduc, Montréal (CAN)"
+491,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Outdoor,1500 Metres,24 JUL 2021,3:49.85,"PEPS de l'Université Laval, Québec (CAN)"
+492,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Outdoor,1500 Metres,11 JUN 2022,3:51.11,"Griswold Stadium, Portland, OR (USA)"
+493,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Outdoor,3000 Metres,11 JUL 2021,8:30.98,"Université de Sherbrooke, Sherbrooke (CAN)"
+494,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Indoor,1000 Metres,22 FEB 2020,2:31.36,"PEPS de l'Université Laval, Québec (CAN)"
+495,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Indoor,1000 Metres,20 MAR 2022,2:33.69,"Centre Sportif Yvon Lamarche, Sherbrooke (CAN)"
+496,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Indoor,1500 Metres,26 JAN 2019,4:05.60,Montréal (CAN)
+497,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Indoor,1500 Metres,25 JAN 2020,3:58.21,"Tomlinson Fieldhouse, Montréal (CAN)"
+498,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Indoor,1500 Metres,02 APR 2022,3:53.90,"Irving Oil Fieldhouse, Saint John (CAN)"
+499,Felix PLOURDE-COUTURE,1999,CAN,981,1500m [Mile ind.],Indoor,One Mile,12 FEB 2022,4:06.06,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+500,Levi TAYLOR,,USA,981,1500m [Mile ind.],Outdoor,800 Metres,13 MAY 2022,1:53.92,"Davis Field, Pocatello, ID (USA)"
+501,Levi TAYLOR,,USA,981,1500m [Mile ind.],Outdoor,1500 Metres,24 APR 2021,3:48.27,"Dornblaser Field - Montana, Missoula, MT (USA)"
+502,Levi TAYLOR,,USA,981,1500m [Mile ind.],Outdoor,1500 Metres,15 APR 2022,3:44.15,"Cougar Athletic Stadium, Azusa, CA (USA)"
+503,Levi TAYLOR,,USA,981,1500m [Mile ind.],Outdoor,5000 Metres,02 APR 2021,14:21.93,"JSerra Catholic HS, San Juan Capistrano, CA (USA)"
+504,Levi TAYLOR,,USA,981,1500m [Mile ind.],Outdoor,5000 Metres,14 MAY 2022,14:18.61,"Davis Field, Pocatello, ID (USA)"
+505,Levi TAYLOR,,USA,981,1500m [Mile ind.],Outdoor,3000 Metres Steeplechase,30 APR 2021,8:55.66,"Oregon State Whyte Track and Field Center, Corvallis, OR (USA)"
+506,Levi TAYLOR,,USA,981,1500m [Mile ind.],Outdoor,3000 Metres Steeplechase,23 JUN 2022,8:27.05,"Hayward Field, Eugene, OR (USA)"
+507,Levi TAYLOR,,USA,981,1500m [Mile ind.],Indoor,One Mile,05 FEB 2022,4:13.76,"The Podium, Spokane, WA (USA)"
+508,Levi TAYLOR,,USA,981,1500m [Mile ind.],Indoor,3000 Metres,04 FEB 2022,8:20.43,"The Podium, Spokane, WA (USA)"
+509,Levi TAYLOR,,USA,981,1500m [Mile ind.],Indoor,Distance Medley Relay,25 FEB 2022,9:53.82,"Brick Breeden Fieldhouse, Bozeman, MT (USA)"
+510,Kal LEWIS,,USA,981,1500m [Mile ind.],Outdoor,800 Metres,23 APR 2021,1:51.80,"Demirjian Park, Champaign, IL (USA)"
+511,Kal LEWIS,,USA,981,1500m [Mile ind.],Outdoor,800 Metres,05 FEB 2022,1:51.06,"Loftus Sports Center, South Bend, IN (USA)"
+512,Kal LEWIS,,USA,981,1500m [Mile ind.],Outdoor,1500 Metres,16 APR 2021,3:43.42,"Billy Hayes T& F Complex, Bloomington, IN (USA)"
+513,Kal LEWIS,,USA,981,1500m [Mile ind.],Outdoor,1500 Metres,15 APR 2022,3:44.71,"Cougar Athletic Stadium, Azusa, CA (USA)"
+514,Kal LEWIS,,USA,981,1500m [Mile ind.],Outdoor,One Mile,12 FEB 2022,4:10.49,"Lied Recreation Center, Ames, IA (USA)"
+515,Kal LEWIS,,USA,981,1500m [Mile ind.],Outdoor,5000 Metres,16 MAY 2021,15:24.09,"Demirjian Park, Champaign, IL (USA)"
+516,Kal LEWIS,,USA,981,1500m [Mile ind.],Outdoor,5000 Metres,15 MAY 2022,14:33.67,"University of Minnesota T&F Stadium, Minneapolis, MN (USA)"
+517,Kal LEWIS,,USA,981,1500m [Mile ind.],Outdoor,Distance Medley Relay,30 APR 2022,9:47.73,"Drake Stadium, Des Moines, IA (USA)"
+518,Kal LEWIS,,USA,981,1500m [Mile ind.],Indoor,600 Metres,22 JAN 2021,1:21.19,"Iowa-Recreation Building, Iowa City, IA (USA)"
+519,Kal LEWIS,,USA,981,1500m [Mile ind.],Indoor,800 Metres,06 FEB 2021,1:54.38,"Bob Devaney Sports Center, Lincoln, NE (USA)"
+520,Kal LEWIS,,USA,981,1500m [Mile ind.],Indoor,800 Metres,15 JAN 2022,1:56.06,"Iowa-Recreation Building, Iowa City, IA (USA)"
+521,Kal LEWIS,,USA,981,1500m [Mile ind.],Indoor,1000 Metres,11 DEC 2021,2:25.85,"Iowa-Recreation Building, Iowa City, IA (USA)"
+522,Kal LEWIS,,USA,981,1500m [Mile ind.],Indoor,One Mile,12 FEB 2021,4:07.14,"Iowa-Recreation Building, Iowa City, IA (USA)"
+523,Kal LEWIS,,USA,981,1500m [Mile ind.],Indoor,One Mile,22 JAN 2022,4:13.58,"Iowa-Recreation Building, Iowa City, IA (USA)"
+524,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,800 Metres,18 APR 2021,1:49.41,"CNDA, Bragança Paulista (BRA)"
+525,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,800 Metres,10 JUL 2022,1:54.18,"Estádio Dr. Magalhães Pessoa, Leiria (POR)"
+526,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,1500 Metres,22 JUN 2018,3:58.26,Bragança Paulista (BRA)
+527,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,1500 Metres,16 JUN 2019,3:59.40,São Paulo (BRA)
+528,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,1500 Metres,13 DEC 2020,3:51.56,"COTP Stadium, São Paulo (BRA)"
+529,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,1500 Metres,16 OCT 2021,3:51.13,Guayaquil (ECU)
+530,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,1500 Metres,23 JUL 2022,3:47.08,"Estádio José Vieira de Carvalho, Maia (POR)"
+531,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,2000 Metres Steeplechase,19 MAY 2018,6:04.01,Recifé (BRA)
+532,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,2000 Metres Steeplechase,09 APR 2022,5:38.40,"Pista Municipal de Faro, Faro (POR)"
+533,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,23 JUN 2018,9:41.22,Bragança Paulista (BRA)
+534,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,30 AUG 2019,9:17.92,"CNDA, Bragança Paulista (BRA)"
+535,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,14 MAR 2020,9:29.88,"CNDA, Bragança Paulista (BRA)"
+536,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,26 SEP 2021,9:21.90,São Luís (BRA)
+537,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,25 APR 2022,8:49.39,Lisboa (POR)
+538,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Indoor,800 Metres,06 MAR 2022,1:57.72,"Expocentro, Pombal (POR)"
+539,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Indoor,1500 Metres,05 FEB 2022,3:56.99,"Expocentro, Pombal (POR)"
+540,Matheus Estevão DA SILVA,05 MAR 2001,BRA,981,1500m [1500m ind.],Indoor,3000 Metres,12 FEB 2022,8:43.84,"Expocentro, Pombal (POR)"
+541,Drew JOHNSON,,USA,981,1500m [Mile],Outdoor,800 Metres,24 APR 2021,1:53.94,"Miami of Ohio Track, Oxford, OH (USA)"
+542,Drew JOHNSON,,USA,981,1500m [Mile],Outdoor,800 Metres,07 MAY 2022,1:56.75,"The TF Complex at Mylan Park, Morgantown, WV (USA)"
+543,Drew JOHNSON,,USA,981,1500m [Mile],Outdoor,1500 Metres,01 MAY 2021,3:48.36,"The TF Complex at Mylan Park, Morgantown, WV (USA)"
+544,Drew JOHNSON,,USA,981,1500m [Mile],Outdoor,1500 Metres,22 APR 2022,3:47.09,"Billy Hayes T& F Complex, Bloomington, IN (USA)"
+545,Drew JOHNSON,,USA,981,1500m [Mile],Outdoor,One Mile,15 MAY 2021,4:12.58,"University of Toledo T&F Outdoor Facility, Toledo, OH (USA)"
+546,Drew JOHNSON,,USA,981,1500m [Mile],Outdoor,One Mile,26 FEB 2022,4:08.51,"Kent State FH, Kent, OH (USA)"
+547,Drew JOHNSON,,USA,981,1500m [Mile],Outdoor,3000 Metres,12 FEB 2022,8:18.27,"Kent State FH, Kent, OH (USA)"
+548,Drew JOHNSON,,USA,981,1500m [Mile],Outdoor,5000 Metres,24 MAR 2022,14:55.19,"Paul Derr TF Facility, Raleigh, NC (USA)"
+549,Drew JOHNSON,,USA,981,1500m [Mile],Indoor,One Mile,27 FEB 2021,4:10.15,"Jack Skoog Indoor Track., Mount Pleasant, MI (USA)"
+550,Drew JOHNSON,,USA,981,1500m [Mile],Indoor,3000 Metres,27 FEB 2021,8:44.24,"Jack Skoog Indoor Track., Mount Pleasant, MI (USA)"
+551,João PAIS,29 APR 2002,POR,981,1500m,Outdoor,800 Metres,01 MAY 2022,1:55.95,Seia (POR)
+552,João PAIS,29 APR 2002,POR,981,1500m,Outdoor,1500 Metres,04 JUN 2022,3:48.40,"Estádio José Vieira de Carvalho, Maia (POR)"
+553,João PAIS,29 APR 2002,POR,981,1500m,Outdoor,3000 Metres,29 MAY 2022,8:23.99,"Estádio Dr. Magalhães Pessoa, Leiria (POR)"
+554,João PAIS,29 APR 2002,POR,981,1500m,Outdoor,5000 Metres,10 JUN 2022,14:34.28,"Estadio Universitario, Lisboa (POR)"
+555,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,800 Metres,04 MAY 2019,1:58.70,"Mission Viejo, CA (USA)"
+556,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,800 Metres,29 JAN 2022,1:52.93,"Dempsey Indoor, Seattle, WA (USA)"
+557,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,1500 Metres,02 MAY 2021,3:47.71,"Drake Stadium, Los Angeles, CA (USA)"
+558,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,1500 Metres,15 APR 2022,3:48.30,"Cougar Athletic Stadium, Azusa, CA (USA)"
+559,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,One Mile,06 APR 2019,4:21.14,"Arcadia, CA (USA)"
+560,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,One Mile,25 MAR 2022,4:09.47,"Drake Stadium, Los Angeles, CA (USA)"
+561,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,3000 Metres,02 MAY 2021,8:40.87,"Drake Stadium, Los Angeles, CA (USA)"
+562,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,3000 Metres,26 FEB 2022,8:38.45,"Dempsey Indoor, Seattle, WA (USA)"
+563,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Outdoor,5000 Metres,02 APR 2021,15:07.14,"Cobb Track and Angell Field, Stanford, CA (USA)"
+564,Dylan WILBUR,,USA,981,"1500m [Mile,Mile ind.]",Indoor,One Mile,05 FEB 2022,4:09.50,"Armory Track, New York, NY (USA)"
+565,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,800 Metres,02 MAY 2013,1:58.57,Belfast (GBR)
+566,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,800 Metres,26 JUN 2018,1:55.93,Belfast (GBR)
+567,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,1500 Metres,13 JUN 2015,3:56.00,Leixlip (IRL)
+568,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,1500 Metres,22 JUL 2016,3:49.94,Dublin (IRL)
+569,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,1500 Metres,12 JUL 2017,3:50.44,Dublin (IRL)
+570,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,1500 Metres,11 JUL 2018,3:48.83,Watford (GBR)
+571,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,1500 Metres,09 JUN 2019,3:51.77,Hendon (GBR)
+572,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,1500 Metres,06 AUG 2020,3:48.46,"Mary Peters Track, Belfast (GBR)"
+573,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,1500 Metres,11 SEP 2021,3:42.23,"Mary Peters Track, Belfast (GBR)"
+574,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,1500 Metres,14 AUG 2022,3:48.93,"Mary Peters Track, Belfast (GBR)"
+575,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,One Mile,24 JUL 2015,4:11.39,Dublin (IRL)
+576,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,One Mile,28 JUL 2021,4:01.94,"Wimbledon Park Athletics Track, London (GBR)"
+577,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,3000 Metres,30 JUL 2016,8:23.90,Leixlip (IRL)
+578,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,3000 Metres,06 MAY 2017,8:31.08,Belfast (GBR)
+579,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,3000 Metres,12 MAY 2019,8:29.12,Swansea (GBR)
+580,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,3000 Metres,30 JUL 2020,8:11.06,"Mary Peters Track, Belfast (GBR)"
+581,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,3000 Metres,06 JUN 2021,8:19.31,"Lee Valley Athletics Centre, London (GBR)"
+582,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5000 Metres,16 APR 2016,15:06.87,Dublin (IRL)
+583,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5000 Metres,23 JUN 2018,14:22.74,Loughborough (GBR)
+584,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5000 Metres,06 JUL 2019,14:26.44,Sheffield (GBR)
+585,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5000 Metres,12 SEP 2020,14:29.77,"Mary Peters Track, Belfast (GBR)"
+586,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5000 Metres,28 AUG 2021,13:56.53,"Barnet Copthall Stadium Hendon, London (GBR)"
+587,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5000 Metres,26 JUN 2022,14:25.46,"Morton Stadium, Dublin (IRL)"
+588,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5 Kilometres,18 FEB 2017,14:36,Armagh (GBR)
+589,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5 Kilometres,15 FEB 2018,14:35,Armagh (GBR)
+590,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5 Kilometres,14 FEB 2019,14:28,Armagh (GBR)
+591,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,5 Kilometres,13 FEB 2020,14:32,Armagh (GBR)
+592,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Outdoor,10 Kilometres,18 JUL 2020,30:45,Lisburn (GBR)
+593,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Indoor,3000 Metres,12 FEB 2016,8:38.5h,Athlone (IRL)
+594,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Indoor,3000 Metres,10 FEB 2017,8:42.20,Athlone (IRL)
+595,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Indoor,3000 Metres,04 FEB 2018,8:29.05,Abbotstown (IRL)
+596,Neil JOHNSTON,09 DEC 1993,GBR,980,1500m,Indoor,3000 Metres,02 FEB 2019,8:28.88,Abbotstown (IRL)
+597,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,600 Metres,19 MAR 2022,1:20.27,Carolina (PUR)
+598,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,800 Metres,09 JUN 2019,1:54.42,Gurabo (PUR)
+599,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,800 Metres,22 MAY 2021,1:51.75,"Thomas Edison Park, Edison, NJ (USA)"
+600,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,800 Metres,04 JUN 2022,1:50.57,"Pista Basilio Rodriguez, Carolina (PUR)"
+601,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,1500 Metres,12 JUL 2017,4:02.48,"Kasarani, Nairobi (KEN)"
+602,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,1500 Metres,14 MAY 2018,3:51.93,"Swarthmore, PA (USA)"
+603,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,1500 Metres,01 JUN 2019,3:49.03,"Nashville, TN (USA)"
+604,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,1500 Metres,22 FEB 2020,3:58.82,Gurabo (PUR)
+605,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,1500 Metres,03 JUN 2021,3:45.58,"Griswold Stadium, Portland, OR (USA)"
+606,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,1500 Metres,06 MAY 2022,3:49.45,"JSerra Catholic HS, San Juan Capistrano, CA (USA)"
+607,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,Two Miles,15 JUN 2019,9:11.07,"Seattle, WA (USA)"
+608,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Outdoor,5000 Metres,28 MAR 2019,14:41.78,"Gainesville, FL (USA)"
+609,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Indoor,800 Metres,22 JAN 2022,1:55.93,"Gladstein Fieldhouse Indiana Un., Bloomington, IN (USA)"
+610,Carlos Alberto VILCHES,29 OCT 2001,PUR,980,1500m,Indoor,1000 Metres,10 DEC 2021,2:29.80,"Gladstein Fieldhouse Indiana Un., Bloomington, IN (USA)"
+611,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,800 Metres,10 AUG 2019,1:58.18,Mol (BEL)
+612,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,800 Metres,06 SEP 2020,1:55.42,"Stadion De Veen, Heusden-Zolder (BEL)"
+613,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,800 Metres,05 JUN 2021,1:54.31,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+614,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,800 Metres,08 MAY 2022,1:53.10,"Stade Rebompré, Ciney (BEL)"
+615,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,1000 Metres,06 SEP 2019,2:37.69,"Boudewijnstadion, Bruxelles (BEL)"
+616,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,1500 Metres,17 AUG 2019,4:02.97,Kessel-Lo (BEL)
+617,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,1500 Metres,16 AUG 2020,4:03.10,"Boudewijnstadion, Bruxelles (BEL)"
+618,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,1500 Metres,21 AUG 2021,3:50.24,"Sportcentrum De Rode Loop in Merksem, Antwerpen (BEL)"
+619,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,1500 Metres,09 JUL 2022,3:47.36,"Stade Rebompré, Ciney (BEL)"
+620,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,3000 Metres,18 JUN 2022,8:25.91,"Stade du Parc de la Dodaine, Nivelles (BEL)"
+621,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,2000 Metres Steeplechase,15 SEP 2019,6:08.99,Mouscron (BEL)
+622,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,2000 Metres Steeplechase,12 SEP 2020,5:56.57,"Stade du Parc de la Dodaine, Nivelles (BEL)"
+623,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,29 MAY 2021,9:07.85,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+624,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,24 JUN 2022,9:00.94,"Atletiekstadium Gentbrugge, Gentbrugge (BEL)"
+625,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Indoor,800 Metres,09 JAN 2022,1:53.87,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)"
+626,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Indoor,1500 Metres,28 FEB 2021,3:58.00,"Stade Couvert Stephane Diagana, Eaubonne (FRA)"
+627,Clément LABAR,10 JUL 2003,BEL,980,1500m [1500m ind.],Indoor,1500 Metres,26 FEB 2022,3:53.29,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)"
+628,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,800 Metres,28 APR 2019,1:54.51,"Claremont, CA (USA)"
+629,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,800 Metres,07 MAR 2020,1:58.53,"Aubrey-Bonham Track, Whittier, CA (USA)"
+630,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,800 Metres,07 MAY 2022,1:52.74,"Jack Kemp Stadium, Los Angeles, CA (USA)"
+631,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,1500 Metres,27 APR 2018,4:06.07,"Redlands, CA (USA)"
+632,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,1500 Metres,19 APR 2019,3:55.24,"Azusa, CA (USA)"
+633,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,1500 Metres,17 APR 2021,3:55.08,"Cougar Athletic Stadium, Azusa, CA (USA)"
+634,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,1500 Metres,15 APR 2022,3:46.99,"Cougar Athletic Stadium, Azusa, CA (USA)"
+635,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,3000 Metres,26 FEB 2022,8:23.51,"Burns Track Complex - Claremont Mudd Scripps, Claremont, CA (USA)"
+636,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,5000 Metres,24 APR 2021,15:05.45,"GCU Track & Field, Phoenix, AZ (USA)"
+637,Daniel SEALAND,,USA,980,1500m [Mile ind.],Outdoor,5000 Metres,12 MAR 2022,14:38.63,"Jack Kemp Stadium, Los Angeles, CA (USA)"
+638,Daniel SEALAND,,USA,980,1500m [Mile ind.],Indoor,One Mile,11 FEB 2022,4:14.84,"The Podium, Spokane, WA (USA)"
+639,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Outdoor,800 Metres,03 JUL 2021,1:54.68,"Hayward Field, Eugene, OR (USA)"
+640,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Outdoor,800 Metres,26 MAR 2022,1:53.03,"Paul Derr TF Facility, Raleigh, NC (USA)"
+641,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Outdoor,1500 Metres,29 APR 2022,3:48.12,"Irwin Belk TF Center, Charlotte, NC (USA)"
+642,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Outdoor,3000 Metres,19 MAR 2022,8:23.10,"Irwin Belk TF Center, Charlotte, NC (USA)"
+643,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Outdoor,5000 Metres,08 APR 2022,14:28.34,"Morris Williams T&F Stadium, Durham, NC (USA)"
+644,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Indoor,800 Metres,15 JAN 2022,1:53.07,"Rector Fieldhouse, Blacksburg, VA (USA)"
+645,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Indoor,1000 Metres,14 JAN 2022,2:30.01,"Rector Fieldhouse, Blacksburg, VA (USA)"
+646,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Indoor,One Mile,20 FEB 2022,4:10.43,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+647,Maddon MUHAMMAD,,USA,980,1500m [Mile ind.],Indoor,3000 Metres,04 FEB 2022,8:23.22,"Rector Fieldhouse, Blacksburg, VA (USA)"
+648,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,31 MAY 2003,1:52.67,Manchester (GBR)
+649,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,17 JUL 2004,1:52.90,Cardiff (GBR)
+650,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,16 APR 2005,1:51.68,"Walnut, CA (USA)"
+651,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,15 APR 2006,1:53.31,"Walnut, CA (USA)"
+652,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,13 MAY 2007,1:49.82,"Princeton, NJ (USA)"
+653,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,12 APR 2008,1:51.75,"Athens, GA (USA)"
+654,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,09 MAY 2009,1:50.09,"Amherst, MA (USA)"
+655,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,24 AUG 2010,1:49.43,Stretford (GBR)
+656,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,23 AUG 2011,1:48.98,Stretford (GBR)
+657,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,21 JUL 2012,1:48.32,Solihull (GBR)
+658,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,12 JUL 2014,1:50.41,Stretford (GBR)
+659,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,22 AUG 2015,1:49.98,Solihull (GBR)
+660,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,04 JUN 2016,1:50.94,Manchester (GBR)
+661,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,24 JUN 2017,1:49.99,Watford (GBR)
+662,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,26 MAY 2018,1:51.73,Watford (GBR)
+663,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,03 SEP 2019,1:51.78,Stretford (GBR)
+664,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,24 JUL 2021,1:51.41,"Loughborough University Track, Loughborough (GBR)"
+665,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,10 AUG 2022,1:50.24,"Woodside Stadium, Watford (GBR)"
+666,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,27 AUG 2006,3:47.11,Manchester (GBR)
+667,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,26 MAY 2007,3:43.44,"Gainesville, FL (USA)"
+668,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,07 JUN 2008,3:43.35,"Waltham, MA (USA)"
+669,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,16 MAY 2009,3:48.38,"Princeton, NJ (USA)"
+670,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,12 JUN 2010,3:41.5h,Watford (GBR)
+671,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,11 JUN 2011,3:42.50,Watford (GBR)
+672,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,09 JUN 2012,3:42.53,Watford (GBR)
+673,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,17 MAY 2014,3:47.74,Watford (GBR)
+674,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,27 JUN 2015,3:50.72,Watford (GBR)
+675,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,28 MAY 2016,3:48.39,Watford (GBR)
+676,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,15 JUL 2017,3:52.56,Bedford (GBR)
+677,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,15 SEP 2020,3:56.05,"Trafford Athletic Stadium, Manchester (GBR)"
+678,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,12 JUN 2021,3:48.32,"Woodside Stadium, Watford (GBR)"
+679,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,23 JUL 2022,3:49.21,"Trafford Athletic Stadium, Manchester (GBR)"
+680,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,One Mile,19 JUL 2014,4:08.91,Oxford (GBR)
+681,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,3000 Metres,06 JUN 2009,8:20.58,"Waltham, MA (USA)"
+682,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,3000 Metres,01 MAY 2011,8:25.47,Stretford (GBR)
+683,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,3000 Metres,27 MAY 2012,8:19.26,Vila Real de Santo António (POR)
+684,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,3000 Metres,09 MAY 2015,8:23.27,Sheffield (GBR)
+685,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,10 Kilometres,07 MAR 2010,30:34,Partington (GBR)
+686,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,10 Kilometres,20 NOV 2011,30:10,Leeds (GBR)
+687,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Outdoor,10 Kilometres,11 MAR 2012,30:23,Manchester (GBR)
+688,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,800 Metres,31 JAN 2004,1:53.38,Sheffield (GBR)
+689,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,800 Metres,12 FEB 2005,1:50.54,"Boston, MA (USA)"
+690,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,800 Metres,11 FEB 2006,1:50.94,"Boston, MA (USA)"
+691,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,800 Metres,17 FEB 2007,1:49.58,"Boston, MA (USA)"
+692,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,1000 Metres,27 JAN 2006,2:22.46,"Boston, MA (USA)"
+693,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,1000 Metres,17 JAN 2007,2:25.29,"Boston, MA (USA)"
+694,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,1000 Metres,15 JAN 2009,2:23.63,"Boston, MA (USA)"
+695,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,1500 Metres,08 JAN 2017,3:53.78,Sheffield (GBR)
+696,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,1500 Metres,24 JAN 2018,3:59.78,Sheffield (GBR)
+697,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,1500 Metres,26 FEB 2022,3:51.65,"Utilita Arena Birmingham, Birmingham (GBR)"
+698,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,One Mile,26 JAN 2007,3:59.14,"Boston, MA (USA)"
+699,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,One Mile,25 JAN 2008,4:01.57,"Boston, MA (USA)"
+700,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,One Mile,24 JAN 2009,4:00.26,"Boston, MA (USA)"
+701,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,One Mile,11 FEB 2017,4:13.50,"Boston, MA (USA)"
+702,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,One Mile,03 FEB 2018,4:07.08,"Boston, MA (USA)"
+703,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,One Mile,05 FEB 2022,4:08.63,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+704,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,3000 Metres,09 DEC 2006,8:32.67,"Cambridge, MA (USA)"
+705,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,3000 Metres,30 JAN 2010,8:05.38,"Boston, MA (USA)"
+706,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,3000 Metres,28 JAN 2012,8:02.24,"Boston, MA (USA)"
+707,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,3000 Metres,26 JAN 2013,8:23.84,"Boston, MA (USA)"
+708,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,3000 Metres,13 FEB 2016,8:13.55,"Boston, MA (USA)"
+709,David PROCTOR,22 OCT 1985,GBR,979,"1500m [1500m ind.,Mile ind.]",Indoor,3000 Metres,28 JAN 2017,8:24.03,"Boston, MA (USA)"
+710,Freddy RICHARDSON,,GBR,979,1500m,Outdoor,800 Metres,04 AUG 2021,1:53.47,"Eltham Sutcliffe Park Athletics Track, London (GBR)"
+711,Freddy RICHARDSON,,GBR,979,1500m,Outdoor,800 Metres,22 JUN 2022,1:52.72,"Eltham Sutcliffe Park Athletics Track, London (GBR)"
+712,Freddy RICHARDSON,,GBR,979,1500m,Outdoor,1500 Metres,12 JUN 2021,3:47.32,"Woodside Stadium, Watford (GBR)"
+713,Freddy RICHARDSON,,GBR,979,1500m,Outdoor,1500 Metres,14 MAY 2022,3:47.08,"Birmingham University Athletics Track, Birmingham (GBR)"
+714,Freddy RICHARDSON,,GBR,979,1500m,Outdoor,3000 Metres,22 MAY 2021,8:18.30,"Stantonbury Stadium, Milton Keynes (GBR)"
+715,Freddy RICHARDSON,,GBR,979,1500m,Outdoor,5000 Metres,31 MAR 2021,14:48.62,"Millennium Arena, Battersea Park, London (GBR)"
+716,Freddy RICHARDSON,,GBR,979,1500m,Outdoor,5 Kilometres,13 DEC 2020,14:47,Ardingly (GBR)
+717,Freddy RICHARDSON,,GBR,979,1500m,Outdoor,10 Miles Road,17 OCT 2021,52:24,Twickenham (GBR)
+718,Freddy RICHARDSON,,GBR,979,1500m,Indoor,1500 Metres,19 FEB 2022,4:03.06,"Hallam University City Athletics Stadium, Sheffield (GBR)"
+719,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,800 Metres,02 JUN 2018,1:54.24,"Nashville, TN (USA)"
+720,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,800 Metres,27 APR 2019,1:55.18,"Louisville, KY (USA)"
+721,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,800 Metres,23 APR 2021,1:53.53,"Cardinal Park, Louisville, KY (USA)"
+722,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,800 Metres,23 APR 2022,1:53.66,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)"
+723,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,1500 Metres,06 APR 2019,3:57.05,"Bowling Green, KY (USA)"
+724,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,1500 Metres,16 MAY 2021,3:48.38,"Dean A. Hayes Track and Soccer Stadium, Murfreesboro, TN (USA)"
+725,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,1500 Metres,22 APR 2022,3:47.87,"Un. of Kentucky Outdoor Track Facility, Lexington, KY (USA)"
+726,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,One Mile,15 JAN 2022,4:09.89,"Vanderbilt Multipurpose Facility, Nashville, TN (USA)"
+727,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,3000 Metres,23 MAR 2019,8:50.65,"Nashville, TN (USA)"
+728,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,3000 Metres,22 JAN 2022,8:48.71,"Vanderbilt Multipurpose Facility, Nashville, TN (USA)"
+729,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Outdoor,5000 Metres,01 APR 2022,14:48.20,"WKU Charles Ruter Track, Bowling Green, KY (USA)"
+730,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,600 Metres,25 JAN 2019,1:23.68,"Bloomington, IN (USA)"
+731,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,800 Metres,16 FEB 2019,1:56.89,"Birmingham, AL (USA)"
+732,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,800 Metres,18 JAN 2020,1:55.69,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+733,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,800 Metres,20 FEB 2021,1:58.76,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+734,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,One Mile,23 FEB 2020,4:12.03,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+735,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,One Mile,07 FEB 2021,4:14.18,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+736,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,One Mile,20 FEB 2022,4:10.48,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+737,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,3000 Metres,17 FEB 2019,8:56.12,"Birmingham, AL (USA)"
+738,Dedrick TROXELL,,USA,979,1500m [Mile ind.],Indoor,3000 Metres,23 FEB 2020,8:50.82,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+739,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,800 Metres,15 JUL 2015,1:55.46,Watford (GBR)
+740,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,800 Metres,13 JUL 2016,1:53.19,Watford (GBR)
+741,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,800 Metres,27 APR 2019,1:53.67,"Berkeley, CA (USA)"
+742,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,800 Metres,21 APR 2022,1:52.67,"Albuquerque, NM (USA)"
+743,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,1500 Metres,06 MAY 2014,3:56.42,Stretford (GBR)
+744,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,1500 Metres,21 JUL 2015,3:53.46,Stretford (GBR)
+745,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,1500 Metres,23 AUG 2016,3:48.53,Stretford (GBR)
+746,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,1500 Metres,05 MAY 2018,3:55.59,"Lubbock, TX (USA)"
+747,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,1500 Metres,19 APR 2019,3:45.92,"Azusa, CA (USA)"
+748,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,1500 Metres,15 APR 2022,3:45.20,"Cougar Athletic Stadium, Azusa, CA (USA)"
+749,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,One Mile,18 JUL 2015,4:18.77,Oxford (GBR)
+750,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,One Mile,23 JUL 2016,4:09.95,Oxford (GBR)
+751,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,3000 Metres,31 JUL 2013,8:48.77,Cardiff (GBR)
+752,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,3000 Metres,20 MAY 2014,8:38.51,Stretford (GBR)
+753,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,3000 Metres,09 JUN 2015,8:21.80,Stretford (GBR)
+754,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,3000 Metres,09 AUG 2016,8:22.70,Stretford (GBR)
+755,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,5000 Metres,17 JUL 2013,15:34.38,Devonshire (BER)
+756,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,5000 Metres,20 JUN 2015,14:32.3h,Bedford (GBR)
+757,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,5000 Metres,14 MAY 2016,14:32.98,Manchester (GBR)
+758,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,5000 Metres,11 MAY 2019,15:02.01,"Clovis, CA (USA)"
+759,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,5000 Metres,14 MAY 2022,14:53.09,"Veterans Memorial Stadium, Clovis, CA (USA)"
+760,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,5 Kilometres,18 FEB 2017,14:33,Armagh (GBR)
+761,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Outdoor,10 Kilometres,13 DEC 2015,30:37,Telford (GBR)
+762,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,800 Metres,27 JAN 2018,1:58.57,"Albuquerque, NM (USA)"
+763,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,800 Metres,01 FEB 2020,1:56.85,"Convention Center, Albuquerque, NM (USA)"
+764,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,800 Metres,26 FEB 2022,1:52.12,"Convention Center, Albuquerque, NM (USA)"
+765,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,One Mile,23 FEB 2018,4:21.35,"Albuquerque, NM (USA)"
+766,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,One Mile,09 FEB 2019,4:13.95,"Albuquerque, NM (USA)"
+767,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,One Mile,14 FEB 2020,4:15.43,"Convention Center, Albuquerque, NM (USA)"
+768,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,One Mile,12 FEB 2022,4:14.07,"Convention Center, Albuquerque, NM (USA)"
+769,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,3000 Metres,24 FEB 2018,8:56.98,"Albuquerque, NM (USA)"
+770,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,3000 Metres,23 FEB 2019,8:39.34,"Albuquerque, NM (USA)"
+771,Iolo HUGHES,22 NOV 1996,GBR,978,1500m [Mile ind.],Indoor,Distance Medley Relay,27 FEB 2020,10:05.78,"Convention Center, Albuquerque, NM (USA)"
+772,Tom DAVIES,01 AUG 2001,AUS,978,1500m [Mile],Outdoor,800 Metres,24 APR 2021,1:54.09,"SOPAC, Sydney (AUS)"
+773,Tom DAVIES,01 AUG 2001,AUS,978,1500m [Mile],Outdoor,800 Metres,05 FEB 2022,1:53.32,"The Crest Athletics Centre, Sydney (AUS)"
+774,Tom DAVIES,01 AUG 2001,AUS,978,1500m [Mile],Outdoor,1500 Metres,21 APR 2021,3:52.39,"SOPAC, Sydney (AUS)"
+775,Tom DAVIES,01 AUG 2001,AUS,978,1500m [Mile],Outdoor,1500 Metres,19 FEB 2022,3:47.84,"SOPAC, Sydney (AUS)"
+776,Tom DAVIES,01 AUG 2001,AUS,978,1500m [Mile],Outdoor,One Mile,18 DEC 2021,4:07.54,"The Crest Athletics Centre, Sydney (AUS)"
+777,Tom DAVIES,01 AUG 2001,AUS,978,1500m [Mile],Outdoor,3000 Metres,13 NOV 2021,8:14.35,"SOPAC Warm Up Arena, Sydney (AUS)"
+778,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,21 JUL 2012,1:57.92,Amsterdam (NED)
+779,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,14 SEP 2014,1:58.80,Eindhoven (NED)
+780,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,01 AUG 2015,1:55.17,Amsterdam (NED)
+781,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,23 JUL 2016,1:52.19,Ninove (BEL)
+782,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,03 JUN 2017,1:51.41,Oordegem (BEL)
+783,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,02 JUN 2018,1:52.12,Oordegem (BEL)
+784,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,01 JUN 2019,1:51.94,Oordegem (BEL)
+785,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,01 AUG 2020,1:55.42,Vught (NED)
+786,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,800 Metres,24 JUN 2022,1:50.73,"Sportpark Orderbos, Apeldoorn (NED)"
+787,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1000 Metres,09 MAY 2015,2:33.07,Lisse (NED)
+788,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1000 Metres,07 MAY 2016,2:31.72,Lisse (NED)
+789,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1000 Metres,13 MAY 2017,2:28.43,Lisse (NED)
+790,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1000 Metres,18 MAY 2019,2:27.94,Lisse (NED)
+791,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1500 Metres,30 JUL 2015,4:02.12,Amsterdam (NED)
+792,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1500 Metres,18 MAY 2016,4:00.87,Nijmegen (NED)
+793,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1500 Metres,10 JUN 2017,3:56.74,Genève (SUI)
+794,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1500 Metres,09 JUN 2018,3:55.08,Genève (SUI)
+795,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1500 Metres,15 JUN 2019,3:53.04,Nijmegen (NED)
+796,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1500 Metres,29 AUG 2020,3:57.40,"Atletiekbaan Maarschalkerweerd, Utrecht (NED)"
+797,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,1500 Metres,23 JUL 2022,3:46.90,"Provincial domain Huizingen, Huizingen (BEL)"
+798,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,3000 Metres,21 JUN 2019,8:24.87,Utrecht (NED)
+799,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,3000 Metres,16 MAY 2021,8:43.32,"U-Track, Utrecht (NED)"
+800,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Outdoor,5000 Metres,20 MAY 2017,15:42.88,Den Haag (NED)
+801,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Indoor,400 Metres,05 JAN 2013,52.77,Apeldoorn (NED)
+802,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Indoor,800 Metres,24 FEB 2013,1:57.26,Apeldoorn (NED)
+803,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Indoor,800 Metres,25 JAN 2014,1:59.56,Apeldoorn (NED)
+804,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Indoor,800 Metres,11 MAR 2017,1:57.78,Apeldoorn (NED)
+805,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Indoor,800 Metres,12 MAR 2022,1:52.68,"Omnisport, Apeldoorn (NED)"
+806,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Indoor,3000 Metres,23 FEB 2020,8:49.01,"Omnisport, Apeldoorn (NED)"
+807,Thomas LEWIS,03 NOV 1994,NED,978,1500m,Indoor,3000 Metres,12 MAR 2022,8:50.34,"Omnisport, Apeldoorn (NED)"
+808,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Outdoor,600 Metres,14 APR 2019,1:24.66,Maisons-Alfort (FRA)
+809,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Outdoor,800 Metres,04 JUL 2018,1:52.10,St-Maur (FRA)
+810,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Outdoor,800 Metres,25 MAY 2019,1:54.99,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+811,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Outdoor,800 Metres,25 JUN 2021,1:56.12,Meaux (FRA)
+812,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Outdoor,800 Metres,18 MAY 2022,1:51.81,"Stade Adolphe Cheron, St-Maur (FRA)"
+813,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Outdoor,1500 Metres,12 JUN 2018,3:48.9h,Rabat (MAR)
+814,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Outdoor,1500 Metres,20 JUN 2021,3:58.68,"Stade municipal JP Garchery, Joinville-le-Point (FRA)"
+815,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Outdoor,1500 Metres,01 JUN 2022,3:50.24,"Stade Adolphe Cheron, St-Maur (FRA)"
+816,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Indoor,800 Metres,04 FEB 2022,1:53.07,"Stade Couvert Stephane Diagana, Eaubonne (FRA)"
+817,Yassine EL GARAA,20 AUG 1994,MAR,978,1500m [1500m ind.],Indoor,1500 Metres,29 JAN 2022,3:52.36,"Stade Couvert Stephane Diagana, Eaubonne (FRA)"
+818,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,800 Metres,20 APR 2019,1:55.31,"Allendale, MI (USA)"
+819,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,800 Metres,22 JAN 2022,1:52.55,"GVSU Kelly Family Sports Cente, Allendale, MI (USA)"
+820,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,1500 Metres,06 APR 2019,4:01.54,"East Lansing, MI (USA)"
+821,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,1500 Metres,15 APR 2022,3:49.41,"Lewisburg, PA (USA)"
+822,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,One Mile,11 FEB 2022,4:06.14,"GVSU Kelly Family Sports Cente, Allendale, MI (USA)"
+823,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,3000 Metres,04 FEB 2022,8:22.69,"GVSU Kelly Family Sports Cente, Allendale, MI (USA)"
+824,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,5000 Metres,25 APR 2019,15:34.76,"Hillsdale, MI (USA)"
+825,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,4x800 Metres Relay,30 MAY 2015,7:59.20,"Zeeland, MI (USA)"
+826,Dillan HAVILAND,,USA,978,1500m [Mile],Outdoor,Distance Medley Relay,12 FEB 2022,9:45.13,"GVSU Kelly Family Sports Cente, Allendale, MI (USA)"
+827,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,800 Metres,29 JUN 2017,1:54.52,Toronto (CAN)
+828,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,800 Metres,24 JUN 2018,1:53.09,Toronto (CAN)
+829,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,800 Metres,14 JUL 2019,1:54.25,Toronto (CAN)
+830,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,1500 Metres,23 JUL 2016,3:59.70,Windsor (CAN)
+831,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,1500 Metres,11 JUN 2017,3:53.87,London (CAN)
+832,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,1500 Metres,07 JUL 2018,3:50.08,Ottawa (CAN)
+833,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,1500 Metres,16 JUN 2019,3:49.87,London (CAN)
+834,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,1500 Metres,16 APR 2021,3:45.94,"UVA Lanningan Field, Charlottesville, VA (USA)"
+835,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,1500 Metres,15 APR 2022,3:46.30,"George J. Sherman Family Sports Complex, Storrs, CT (USA)"
+836,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,2000 Metres,08 AUG 2015,5:48.46,Sainte-Therese (CAN)
+837,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,3000 Metres,06 AUG 2016,8:30.89,Sainte-Therese (CAN)
+838,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,3000 Metres,03 JUN 2017,8:32.76,Belleville (CAN)
+839,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,3000 Metres,09 JUN 2018,8:27.36,Toronto (CAN)
+840,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,5000 Metres,26 MAY 2019,14:35.42,Hamilton (CAN)
+841,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,5000 Metres,02 APR 2021,13:54.88,"Cobb Track and Angell Field, Stanford, CA (USA)"
+842,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,5000 Metres,22 APR 2022,13:47.81,"UVA Lanningan Field, Charlottesville, VA (USA)"
+843,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Outdoor,10 Kilometres,15 NOV 2019,30:32,"Buffalo, NY (USA)"
+844,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,800 Metres,12 FEB 2017,1:58.18,Toronto (CAN)
+845,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,1500 Metres,11 FEB 2017,4:01.85,Toronto (CAN)
+846,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,One Mile,15 FEB 2020,4:09.21,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+847,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,One Mile,06 MAR 2022,4:03.47,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+848,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,3000 Metres,14 FEB 2016,8:58.06,Toronto (CAN)
+849,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,3000 Metres,05 MAR 2017,8:40.47,Toronto (CAN)
+850,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,3000 Metres,25 JAN 2020,8:13.61,"Armory Track, New York, NY (USA)"
+851,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,3000 Metres,12 FEB 2022,7:56.58,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+852,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,5000 Metres,07 DEC 2019,14:09.03,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+853,Joshua DESOUZA,27 JUN 2000,CAN,977,1500m [Mile ind.],Indoor,5000 Metres,19 FEB 2022,14:18.89,"Armory Track, New York, NY (USA)"
+854,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,400 Metres,21 MAY 2019,50.63,"Mario Agosti, Pordenone (ITA)"
+855,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,600 Metres,09 JUL 2019,1:20.57,Lignano Sabbiadoro (ITA)
+856,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,600 Metres,09 APR 2022,1:23.49,"Stadio Enzo Blasone, Foligno (ITA)"
+857,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,800 Metres,21 JUL 2018,1:57.62,Trieste (ITA)
+858,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,800 Metres,21 JUN 2019,1:54.01,Agropoli (ITA)
+859,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,800 Metres,18 SEP 2020,1:53.11,"Stadio Zecchini, Grosseto (ITA)"
+860,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,800 Metres,29 AUG 2021,1:51.72,"Stadio Enzo Blasone, Foligno (ITA)"
+861,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,800 Metres,16 JUL 2022,1:50.07,"Polisportivo Guido Maccan, Brugnera (ITA)"
+862,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,1500 Metres,06 JUL 2019,3:52.97,Trieste (ITA)
+863,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,1500 Metres,13 SEP 2020,3:53.06,"Stadio Giuseppe Grezar, Trieste (ITA)"
+864,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,1500 Metres,04 SEP 2021,3:50.93,"Pista Isaia Di Cesare, L'Aquila (ITA)"
+865,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,1500 Metres,25 MAY 2022,3:46.93,"Campo Comunale, Zogno (ITA)"
+866,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Outdoor,One Mile,25 APR 2019,4:23.24,Udine (ITA)
+867,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Indoor,800 Metres,12 JAN 2019,1:59.12,Padova (ITA)
+868,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Indoor,800 Metres,19 JAN 2020,1:56.12,"Palaindoor, Padova (ITA)"
+869,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Indoor,800 Metres,07 FEB 2021,1:54.53,"Palaindoor Ancona, Ancona (ITA)"
+870,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Indoor,800 Metres,06 FEB 2022,1:52.41,"Palaindoor Ancona, Ancona (ITA)"
+871,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Indoor,1500 Metres,10 FEB 2019,4:06.72,Ancona (ITA)
+872,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Indoor,1500 Metres,18 JAN 2020,4:05.56,"Palaindoor, Padova (ITA)"
+873,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Indoor,1500 Metres,06 FEB 2021,3:57.43,"Palaindoor Ancona, Ancona (ITA)"
+874,Niccolo' GALIMI,21 MAR 2002,ITA,977,1500m,Indoor,1500 Metres,15 JAN 2022,4:00.87,"Palaindoor Ancona, Ancona (ITA)"
+875,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,800 Metres,02 MAY 2015,1:56.77,"Gresham, OR (USA)"
+876,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,800 Metres,23 JUN 2016,1:52.24,"Portland, OR (USA)"
+877,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,800 Metres,16 JUN 2017,1:51.37,"Portland, OR (USA)"
+878,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,800 Metres,12 MAY 2018,1:51.44,"Adrian, MI (USA)"
+879,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,800 Metres,29 JUN 2019,1:51.23,"Eugene, OR (USA)"
+880,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,800 Metres,10 JUL 2021,1:50.70,"Hughes Stadium, Sacramento, CA (USA)"
+881,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,800 Metres,23 APR 2022,1:52.11,"Hayward Field, Eugene, OR (USA)"
+882,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1000 Metres,15 JAN 2022,2:26.92,"Dempsey Indoor, Seattle, WA (USA)"
+883,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1500 Metres,15 JUN 2014,3:57.42,"Portland, OR (USA)"
+884,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1500 Metres,14 JUN 2015,3:55.13,"Portland, OR (USA)"
+885,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1500 Metres,06 MAY 2016,3:57.65,"Eugene, OR (USA)"
+886,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1500 Metres,13 MAY 2017,3:52.87,"Portland, OR (USA)"
+887,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1500 Metres,15 JUN 2018,3:46.46,"Portland, OR (USA)"
+888,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1500 Metres,19 JUL 2019,3:45.65,"Portland, OR (USA)"
+889,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1500 Metres,29 MAY 2021,3:44.38,"Griswold Stadium, Portland, OR (USA)"
+890,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,1500 Metres,11 JUN 2022,3:46.90,"Griswold Stadium, Portland, OR (USA)"
+891,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,One Mile,18 JUL 2021,4:07.05,"Trabuco Hills HS, Mission Viejo, CA (USA)"
+892,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,One Mile,05 JUN 2022,4:06.49,"Vanderbilt Track, Nashville, TN (USA)"
+893,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,3000 Metres,12 JUN 2016,8:43.98,"Portland, OR (USA)"
+894,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,3000 Metres,11 JUN 2017,8:39.35,"Portland, OR (USA)"
+895,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,5000 Metres,31 MAR 2018,15:55.72,"Geneseo, NY (USA)"
+896,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,5000 Metres,06 APR 2019,15:16.93,"Clinton, NY (USA)"
+897,Matthew PALMER,,USA,977,1500m [Mile],Outdoor,5000 Metres,07 MAY 2022,14:55.17,"Griswold Stadium, Portland, OR (USA)"
+898,Matthew PALMER,,USA,977,1500m [Mile],Indoor,1000 Metres,17 FEB 2018,2:38.74,"Ithaca, NY (USA)"
+899,Matthew PALMER,,USA,977,1500m [Mile],Indoor,One Mile,02 MAR 2019,4:24.11,"Ithaca, NY (USA)"
+900,Matthew PALMER,,USA,977,1500m [Mile],Indoor,3000 Metres,12 JAN 2019,8:59.73,"Utica, NY (USA)"
+901,Matthew PALMER,,USA,977,1500m [Mile],Indoor,5000 Metres,15 FEB 2020,15:05.48,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+902,Duncan ROBINSON,15 JUL 2002,GBR,977,1500m [Mile],Outdoor,800 Metres,14 MAY 2022,1:58.92,"Ayrshire Athletics Arena, Kilmarnock (GBR)"
+903,Duncan ROBINSON,15 JUL 2002,GBR,977,1500m [Mile],Outdoor,1500 Metres,03 SEP 2021,3:55.59,"Craigswood Sports Centre Track, Livingston (GBR)"
+904,Duncan ROBINSON,15 JUL 2002,GBR,977,1500m [Mile],Outdoor,1500 Metres,29 JUL 2022,3:46.94,"Scotstoun Stadium, Glasgow (GBR)"
+905,Duncan ROBINSON,15 JUL 2002,GBR,977,1500m [Mile],Outdoor,One Mile,21 MAY 2022,4:10.90,"University of Stirling Track, Stirling (GBR)"
+906,Duncan ROBINSON,15 JUL 2002,GBR,977,1500m [Mile],Outdoor,3000 Metres,04 JUN 2021,8:15.90,"Moss Sports Centre Track, Linwood (GBR)"
+907,Duncan ROBINSON,15 JUL 2002,GBR,977,1500m [Mile],Outdoor,5000 Metres,21 AUG 2021,14:31.73,"Harvey Hadden Stadium, Nottingham (GBR)"
+908,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,1500 Metres,20 JUL 2019,4:00.34,"Stadion Stählerwiese, Kreuztal (GER)"
+909,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,1500 Metres,25 JUL 2020,3:51.56,"Sportanlage Altkönigblick, Königstein (GER)"
+910,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,1500 Metres,22 MAY 2021,3:55.20,"Otto-Schott-Stadion, Mainz (GER)"
+911,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,1500 Metres,18 JUN 2022,3:50.03,"TSV Stadion, Pfungstadt (GER)"
+912,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,3000 Metres,26 JUL 2019,8:58.21,Ulm (GER)
+913,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,3000 Metres,12 SEP 2020,8:14.39,"Willy-Lemkens-Sportpark, Sonsbeck (GER)"
+914,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,3000 Metres,03 JUL 2021,8:10.46,"Sportanlage am Oberen Wöhrd, Regensburg (GER)"
+915,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,5000 Metres,15 AUG 2020,14:30.44,"Stadion Rote Erde, Dortmund (GER)"
+916,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,5000 Metres,15 MAY 2021,14:26.12,"Carl-Kaufmann-Stadion, Karlsruhe (GER)"
+917,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Outdoor,5000 Metres,23 JUL 2022,15:33.77,"Lohrheidestadion, Wattenscheid, Bochum (GER)"
+918,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Indoor,1500 Metres,09 FEB 2020,4:00.39,"Helmut-Körnig-Halle, Dortmund (GER)"
+919,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Indoor,1500 Metres,01 FEB 2022,3:51.56,"Hartwig-Gauder-Halle, Erfurt (GER)"
+920,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Indoor,3000 Metres,02 FEB 2020,8:43.60,"Helmut-Körnig-Halle, Dortmund (GER)"
+921,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Indoor,3000 Metres,12 FEB 2022,8:23.57,"Helmut-Körnig-Halle, Dortmund (GER)"
+922,Yassin MOHUMED,04 NOV 2002,GER,977,1500m [1500m ind.],Indoor,Two Miles,12 FEB 2022,8:59.49,"Helmut-Körnig-Halle, Dortmund (GER)"
+923,Rowan MIELL-INGRAM,29 MAY 2004,GBR,977,1500m,Outdoor,800 Metres,31 AUG 2021,1:56.57,"Exeter Arena Athletics Stadium, Exeter (GBR)"
+924,Rowan MIELL-INGRAM,29 MAY 2004,GBR,977,1500m,Outdoor,1500 Metres,25 AUG 2021,3:56.06,"Woodside Stadium, Watford (GBR)"
+925,Rowan MIELL-INGRAM,29 MAY 2004,GBR,977,1500m,Outdoor,1500 Metres,10 AUG 2022,3:46.23,"Woodside Stadium, Watford (GBR)"
+926,Rowan MIELL-INGRAM,29 MAY 2004,GBR,977,1500m,Outdoor,3000 Metres,09 JUL 2021,8:25.88,"Sportcity Regional Arena, Manchester (GBR)"
+927,Rowan MIELL-INGRAM,29 MAY 2004,GBR,977,1500m,Outdoor,3000 Metres,24 JUN 2022,8:19.76,"Manchester Regional Arena, Manchester (GBR)"
+928,Rowan MIELL-INGRAM,29 MAY 2004,GBR,977,1500m,Outdoor,5000 Metres,18 JUN 2022,14:42.07,"Melbourne Park Athletics Centre, Chelmsford (GBR)"
+929,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,800 Metres,05 JUN 2016,1:57.78,Vénissieux (FRA)
+930,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,800 Metres,30 MAR 2017,1:58.55,Buenos Aires (ARG)
+931,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,800 Metres,04 JUL 2018,1:55.97,Marseille (FRA)
+932,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,800 Metres,13 APR 2019,1:55.11,"Hayward, CA (USA)"
+933,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,800 Metres,19 SEP 2020,1:55.35,"Stade René Dubot, Tassin (FRA)"
+934,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,800 Metres,30 JUN 2022,1:54.43,"Stade Pierre Duboeuf, Bron (FRA)"
+935,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,1500 Metres,09 JUN 2018,3:51.49,Decines (FRA)
+936,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,1500 Metres,16 MAR 2019,3:50.45,"Sacramento, CA (USA)"
+937,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,1500 Metres,04 JUL 2021,3:47.70,"Stade Municipal, Ambilly (FRA)"
+938,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,1500 Metres,28 MAY 2022,3:48.12,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+939,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,3000 Metres,08 MAY 2022,8:32.72,"Parc Départemental de Parilly, Vénissieux (FRA)"
+940,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Outdoor,5000 Metres,29 AUG 2020,15:03.58,"Stade Raymond Troussier, Decines (FRA)"
+941,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Indoor,800 Metres,31 JAN 2016,1:59.35,Lyon (FRA)
+942,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Indoor,One Mile,12 JAN 2019,4:14.57,"New York, NY (USA)"
+943,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Indoor,One Mile,26 JAN 2020,4:18.33,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+944,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Indoor,3000 Metres,28 FEB 2020,8:22.89,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+945,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Indoor,3000 Metres,21 JAN 2022,8:20.02,"Halle Stéphane Diagana, Lyon (FRA)"
+946,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Indoor,Distance Medley Relay,24 FEB 2019,10:02.55,"Boston, MA (USA)"
+947,Charlie MESSAI,16 DEC 1993,FRA,977,1500m,Indoor,Distance Medley Relay,28 FEB 2020,9:50.24,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+948,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,800 Metres,31 MAY 2014,1:56.62,Valencia (ESP)
+949,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,800 Metres,18 JUN 2015,1:52.77,Castellón (ESP)
+950,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,800 Metres,18 JUN 2016,1:58.52,Barcelona (ESP)
+951,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,800 Metres,29 JUN 2017,1:53.88,Barcelona (ESP)
+952,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,800 Metres,26 JUN 2018,1:50.81,Castellón (ESP)
+953,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,800 Metres,30 MAR 2019,1:50.63,"Raleigh, NC (USA)"
+954,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,800 Metres,27 MAR 2021,1:50.41,"Paul Derr TF Facility, Raleigh, NC (USA)"
+955,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,800 Metres,23 APR 2022,1:51.91,"Billy Hayes T& F Complex, Bloomington, IN (USA)"
+956,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,1500 Metres,06 APR 2018,3:57.21,"High Point, NC (USA)"
+957,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,1500 Metres,13 APR 2019,3:55.48,"Greensboro, NC (USA)"
+958,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,1500 Metres,23 APR 2021,3:49.06,"Irwin Belk TF Center, Charlotte, NC (USA)"
+959,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,1500 Metres,24 MAR 2022,3:48.54,"Paul Derr TF Facility, Raleigh, NC (USA)"
+960,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,3000 Metres,12 JUN 2021,8:35.37,La Nucia (ESP)
+961,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,4x400 Metres Relay,11 MAY 2018,3:18.14,"High Point, NC (USA)"
+962,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,4x400 Metres Relay,17 APR 2021,3:20.74,"UVA Lanningan Field, Charlottesville, VA (USA)"
+963,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Outdoor,4x400 Metres Relay Mixed,02 JUL 2022,3:32.76,Granollers (ESP)
+964,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,800 Metres,07 FEB 2015,1:55.94,Valencia (ESP)
+965,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,800 Metres,09 JAN 2016,1:58.06,Sabadell (ESP)
+966,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,800 Metres,04 MAR 2017,1:54.93,Valencia (ESP)
+967,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,800 Metres,24 FEB 2018,1:53.23,"Lynchburg, VA (USA)"
+968,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,800 Metres,16 FEB 2019,1:52.82,"Lynchburg, VA (USA)"
+969,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,800 Metres,29 FEB 2020,1:53.08,"Rector Fieldhouse, Blacksburg, VA (USA)"
+970,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,800 Metres,25 FEB 2022,1:54.01,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+971,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,1000 Metres,25 JAN 2015,2:31.45,Valencia (ESP)
+972,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,1000 Metres,26 JAN 2019,2:29.54,"Lynchburg, VA (USA)"
+973,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,One Mile,03 FEB 2018,4:17.51,"Lynchburg, VA (USA)"
+974,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,One Mile,16 FEB 2019,4:18.26,"Lynchburg, VA (USA)"
+975,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,One Mile,29 FEB 2020,4:13.85,"Rector Fieldhouse, Blacksburg, VA (USA)"
+976,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,One Mile,23 JAN 2021,4:13.82,"Liberty Indoor Complex, Lynchburg, VA (USA)"
+977,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,4x400 Metres Relay,16 FEB 2019,3:20.73,"Lynchburg, VA (USA)"
+978,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,4x400 Metres Relay,29 FEB 2020,3:19.95,"Rector Fieldhouse, Blacksburg, VA (USA)"
+979,Siro PIÑA,09 DEC 1998,ESP,977,1500m,Indoor,Distance Medley Relay,25 FEB 2022,9:44.67,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+980,Nate RIECH,1995,CAN,977,1500m,Outdoor,800 Metres,09 APR 2016,1:57.42,"Auburn, AL (USA)"
+981,Nate RIECH,1995,CAN,977,1500m,Outdoor,800 Metres,09 JUN 2017,1:53.18,"Nashville, TN (USA)"
+982,Nate RIECH,1995,CAN,977,1500m,Outdoor,800 Metres,14 JUL 2018,1:52.95,Kortrijk (BEL)
+983,Nate RIECH,1995,CAN,977,1500m,Outdoor,800 Metres,25 JUL 2019,1:53.43,Montréal (CAN)
+984,Nate RIECH,1995,CAN,977,1500m,Outdoor,800 Metres,16 JUN 2022,1:52.00,"Centennial Stadium, Victoria (CAN)"
+985,Nate RIECH,1995,CAN,977,1500m,Outdoor,1500 Metres,18 MAY 2014,3:55.97,"Blacksburg, VA (USA)"
+986,Nate RIECH,1995,CAN,977,1500m,Outdoor,1500 Metres,10 APR 2015,3:52.24,"Knoxville, TN (USA)"
+987,Nate RIECH,1995,CAN,977,1500m,Outdoor,1500 Metres,30 APR 2016,3:55.15,"Starkville, MS (USA)"
+988,Nate RIECH,1995,CAN,977,1500m,Outdoor,1500 Metres,18 MAR 2017,3:53.49,"Mobile, AL (USA)"
+989,Nate RIECH,1995,CAN,977,1500m,Outdoor,1500 Metres,18 JUL 2018,3:51.62,Liège (BEL)
+990,Nate RIECH,1995,CAN,977,1500m,Outdoor,1500 Metres,13 JUN 2019,3:57.00,Burnaby (CAN)
+991,Nate RIECH,1995,CAN,977,1500m,Outdoor,1500 Metres,29 MAY 2021,3:47.89,"Griswold Stadium, Portland, OR (USA)"
+992,Nate RIECH,1995,CAN,977,1500m,Outdoor,1500 Metres,20 MAY 2022,3:48.68,"Icahn Stadium, New York, NY (USA)"
+993,Nate RIECH,1995,CAN,977,1500m,Outdoor,One Mile,12 APR 2014,4:12.24,"Greenville, SC (USA)"
+994,Nate RIECH,1995,CAN,977,1500m,Outdoor,One Mile,07 APR 2018,4:12.87,"Tempe, AZ (USA)"
+995,Nate RIECH,1995,CAN,977,1500m,Outdoor,3000 Metres,05 MAR 2016,8:57.56,"Mobile, AL (USA)"
+996,Nate RIECH,1995,CAN,977,1500m,Outdoor,3000 Metres,08 APR 2017,8:54.24,"Auburn, AL (USA)"
+997,Nate RIECH,1995,CAN,977,1500m,Outdoor,3000 Metres,22 JAN 2022,8:33.61,"Vanderbilt Multipurpose Facility, Nashville, TN (USA)"
+998,Nate RIECH,1995,CAN,977,1500m,Outdoor,5000 Metres,27 MAR 2021,15:00.42,"Centennial Stadium, Victoria (CAN)"
+999,Nate RIECH,1995,CAN,977,1500m,Outdoor,5000 Metres,30 APR 2022,15:01.34,"Spec Towns Track, Athens, GA (USA)"
+1000,Nate RIECH,1995,CAN,977,1500m,Outdoor,4x800 Metres Relay,04 APR 2015,7:48.28,"Spartanburg, SC (USA)"
+1001,Nate RIECH,1995,CAN,977,1500m,Indoor,800 Metres,27 FEB 2015,1:55.11,"Birmingham, AL (USA)"
+1002,Nate RIECH,1995,CAN,977,1500m,Indoor,1000 Metres,22 FEB 2014,2:32.06,"Blacksburg, VA (USA)"
+1003,Nate RIECH,1995,CAN,977,1500m,Indoor,One Mile,15 FEB 2014,4:18.57,"Winston Salem, NC (USA)"
+1004,Nate RIECH,1995,CAN,977,1500m,Indoor,One Mile,20 FEB 2015,4:12.27,"Blacksburg, VA (USA)"
+1005,Nate RIECH,1995,CAN,977,1500m,Indoor,One Mile,21 FEB 2017,4:13.12,"Birmingham, AL (USA)"
+1006,Nate RIECH,1995,CAN,977,1500m,Indoor,One Mile,27 JAN 2018,4:18.09,"Phoenix, AZ (USA)"
+1007,Nate RIECH,1995,CAN,977,1500m,Indoor,3000 Metres,06 DEC 2014,8:38.67,"Winston Salem, NC (USA)"
+1008,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,800 Metres,17 AUG 2019,1:58.83,Bílina (CZE)
+1009,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,800 Metres,13 JUN 2020,1:57.17,"Atletický stadion Střelnice, Jablonec nad Nisou (CZE)"
+1010,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,800 Metres,11 SEP 2021,1:55.45,"Městský atletický stadion, Pardubice (CZE)"
+1011,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,800 Metres,11 JUN 2022,1:53.86,Kolin (CZE)
+1012,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,1000 Metres,01 JUN 2020,2:33.46,"Sport Park Liberec, Liberec (CZE)"
+1013,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,1500 Metres,09 AUG 2020,3:56.36,"Atletický stadion města Plzně, Plzeň (CZE)"
+1014,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,1500 Metres,27 JUN 2021,3:51.42,"Stadion Mládeže, Zlín (CZE)"
+1015,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,1500 Metres,25 JUN 2022,3:43.15,"Stadion U Červených domků, Hodonín (CZE)"
+1016,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,3000 Metres,13 JUL 2019,8:49.22,Trnava (SVK)
+1017,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,3000 Metres,05 JUN 2020,8:32.85,"Vitkovice, Ostrava (CZE)"
+1018,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,3000 Metres,30 JUN 2021,8:20.93,Liberec (CZE)
+1019,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,3000 Metres,02 JUN 2022,8:05.09,"Leichtathletikarena, Eisenstadt (AUT)"
+1020,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Outdoor,5000 Metres,11 JUN 2021,14:33.04,"Heinz-Steyer-Stadion, Dresden (GER)"
+1021,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Indoor,1500 Metres,20 FEB 2022,3:59.18,"Atletická hala, Ostrava (CZE)"
+1022,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Indoor,3000 Metres,02 FEB 2020,8:42.00,"Stromovka, Praha (CZE)"
+1023,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Indoor,3000 Metres,20 FEB 2021,8:33.70,"Vitkovice, Ostrava (CZE)"
+1024,David ŠLAPÁK,20 APR 2003,CZE,976,1500m [1500m ind.],Indoor,3000 Metres,06 FEB 2022,8:31.27,"Atletická hala Otakara Jandery, Praha (CZE)"
+1025,Sean RYAN,,USA,976,1500m [Mile ind.],Outdoor,800 Metres,21 APR 2018,1:59.10,"Williamstown, MA (USA)"
+1026,Sean RYAN,,USA,976,1500m [Mile ind.],Outdoor,800 Metres,08 JUN 2019,1:54.24,"Middletown, NY (USA)"
+1027,Sean RYAN,,USA,976,1500m [Mile ind.],Outdoor,800 Metres,16 APR 2022,1:54.13,"Lewisburg, PA (USA)"
+1028,Sean RYAN,,USA,976,1500m [Mile ind.],Outdoor,1500 Metres,13 APR 2019,4:04.22,"Lewisburg, PA (USA)"
+1029,Sean RYAN,,USA,976,1500m [Mile ind.],Outdoor,1500 Metres,24 MAR 2022,3:48.06,"Paul Derr TF Facility, Raleigh, NC (USA)"
+1030,Sean RYAN,,USA,976,1500m [Mile ind.],Outdoor,4x800 Metres Relay,08 MAY 2022,7:35.26,"Frank H. Livak Track, Vermont, Burlington, VT (USA)"
+1031,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,800 Metres,18 FEB 2017,1:59.94,"Utica, NY (USA)"
+1032,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,800 Metres,27 JAN 2018,1:59.29,"Boston, MA (USA)"
+1033,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,800 Metres,10 FEB 2019,2:00.41,"Ithaca, NY (USA)"
+1034,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,800 Metres,12 FEB 2022,1:51.19,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1035,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,1000 Metres,28 JAN 2017,2:38.87,"Utica, NY (USA)"
+1036,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,1000 Metres,26 JAN 2019,2:28.94,"New York, NY (USA)"
+1037,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,1000 Metres,22 FEB 2020,2:33.58,"Cornell-Barton Hall, Ithaca, NY (USA)"
+1038,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,One Mile,09 FEB 2019,4:15.09,"New York, NY (USA)"
+1039,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,One Mile,07 MAR 2020,4:19.75,"Golisano Training Center, Rochester, NY (USA)"
+1040,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,One Mile,05 MAR 2022,4:07.35,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1041,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,3000 Metres,12 JAN 2019,9:00.49,"Utica, NY (USA)"
+1042,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,3000 Metres,09 JAN 2020,8:59.43,"New York, NY (USA)"
+1043,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,3000 Metres,04 DEC 2021,8:45.40,"Cornell-Barton Hall, Ithaca, NY (USA)"
+1044,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,4x800 Metres Relay,10 JAN 2018,7:55.79,"New York, NY (USA)"
+1045,Sean RYAN,,USA,976,1500m [Mile ind.],Indoor,Distance Medley Relay,25 FEB 2022,9:42.02,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1046,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,400 Metres,02 JUL 2021,49.67,"Apple Bowl Stadium, Kelowna (CAN)"
+1047,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,800 Metres,16 JUL 2017,1:59.05,Coquitlam (CAN)
+1048,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,800 Metres,26 JUN 2018,1:56.58,Burnaby (CAN)
+1049,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,800 Metres,11 AUG 2019,1:53.82,Sydney (CAN)
+1050,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,800 Metres,24 JUL 2021,1:50.11,"Centennial Stadium, Victoria (CAN)"
+1051,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,800 Metres,25 MAY 2022,1:48.27,"John McDonnell Field, Fayetteville, AR (USA)"
+1052,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,1500 Metres,01 JUN 2018,4:01.36,Langley (CAN)
+1053,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,1500 Metres,23 JUN 2019,3:55.74,Burnaby (CAN)
+1054,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,1500 Metres,18 JUN 2021,3:53.64,"Swangard Stadium, Burnaby (CAN)"
+1055,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,1500 Metres,22 APR 2022,3:47.66,"Hayward Field, Eugene, OR (USA)"
+1056,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,One Mile,10 JUL 2021,4:11.55,"Swangard Stadium, Burnaby (CAN)"
+1057,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,10 Kilometres,26 MAR 2021,35:10,Mission (CAN)
+1058,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,2000 Metres Steeplechase,15 JUN 2019,6:01.20,Langley (CAN)
+1059,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,4x400 Metres Relay,15 MAY 2022,3:09.61,"Hayward Field, Eugene, OR (USA)"
+1060,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Outdoor,Distance Medley Relay,25 FEB 2022,9:44.03,"Dempsey Indoor, Seattle, WA (USA)"
+1061,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Indoor,600 Metres,02 FEB 2019,1:26.72,Richmond (CAN)
+1062,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Indoor,800 Metres,12 FEB 2022,1:49.96,"Gately Indoor TF Center, Chicago, IL (USA)"
+1063,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Indoor,1500 Metres,02 FEB 2019,4:12.59,Richmond (CAN)
+1064,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Indoor,One Mile,29 JAN 2022,4:11.35,"Randal Tyson Indoor Center, Fayetteville, AR (USA)"
+1065,Matthew ERICKSON,11 MAR 2003,CAN,976,1500m [Mile ind.],Indoor,Distance Medley Relay,11 FEB 2022,9:34.70,"Gately Indoor TF Center, Chicago, IL (USA)"
+1066,Utku GÖLER,15 JAN 2005,TUR,975,1500m [1500m ind.],Outdoor,1500 Metres,25 JUN 2022,3:48.11,"Atıcılar Atletizm Sahası, Bursa (TUR)"
+1067,Utku GÖLER,15 JAN 2005,TUR,975,1500m [1500m ind.],Outdoor,3000 Metres,05 JUL 2022,8:14.79,"Givat Ram Stadium, Jerusalem (ISR)"
+1068,Utku GÖLER,15 JAN 2005,TUR,975,1500m [1500m ind.],Indoor,1500 Metres,02 FEB 2022,3:53.41,"Ataköy Arena, Istanbul (TUR)"
+1069,Utku GÖLER,15 JAN 2005,TUR,975,1500m [1500m ind.],Indoor,3000 Metres,03 FEB 2022,8:24.98,"Ataköy Arena, Istanbul (TUR)"
+1070,Maxime ARAGON,1998,FRA,975,1500m,Outdoor,800 Metres,08 MAY 2021,1:55.95,"Stade Philippides, Montpellier (FRA)"
+1071,Maxime ARAGON,1998,FRA,975,1500m,Outdoor,800 Metres,17 APR 2022,1:57.20,"Stade Philippides, Montpellier (FRA)"
+1072,Maxime ARAGON,1998,FRA,975,1500m,Outdoor,1500 Metres,15 MAY 2021,3:59.29,"Stade Philippides, Montpellier (FRA)"
+1073,Maxime ARAGON,1998,FRA,975,1500m,Outdoor,1500 Metres,15 JUN 2022,3:44.16,"Stade Delort, Marseille (FRA)"
+1074,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Outdoor,800 Metres,10 JUL 2019,1:57.44,St-Maur (FRA)
+1075,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Outdoor,800 Metres,09 JUL 2022,1:50.47,"Sportcentrum Wembley, Kortrijk (BEL)"
+1076,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Outdoor,1500 Metres,19 SEP 2020,3:56.95,"Stade des Maradas, Cergy-Pontoise (FRA)"
+1077,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Outdoor,1500 Metres,28 MAY 2022,3:44.60,"Sport Vlaanderen Atletiekpiste, Oordegem (BEL)"
+1078,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Outdoor,3000 Metres,22 AUG 2020,8:36.87,"Stade de Vernonnet, Vernon (FRA)"
+1079,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Outdoor,3000 Metres,29 JUN 2022,8:09.45,"Stade Adolphe Cheron, St-Maur (FRA)"
+1080,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Outdoor,5 Kilometres,15 DEC 2019,15:21,Issy-les-Moulineaux (FRA)
+1081,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Outdoor,10 Kilometres,20 MAR 2022,29:41,Lille (FRA)
+1082,Gabriel TIMBA,16 JUN 2003,FRA,975,1500m,Indoor,3000 Metres,21 JAN 2022,8:21.73,"Halle Stéphane Diagana, Lyon (FRA)"
+1083,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,800 Metres,31 MAY 2016,1:56.76,Osterode (GER)
+1084,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,800 Metres,27 MAY 2017,1:54.49,Jena (GER)
+1085,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,800 Metres,26 MAY 2018,1:54.39,Cottbus (GER)
+1086,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,800 Metres,02 JUN 2019,1:54.94,Königs Wusterhausen (GER)
+1087,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,800 Metres,02 SEP 2020,1:53.84,"TSV Stadion, Pfungstadt (GER)"
+1088,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,800 Metres,19 JUN 2021,1:55.01,"Sportanlage am Weinweg, Regensburg (GER)"
+1089,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,800 Metres,14 MAY 2022,1:51.45,"Nordanlage, Leipzig (GER)"
+1090,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,1000 Metres,13 MAY 2018,2:29.81,Pliezhausen (GER)
+1091,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,1500 Metres,24 JUN 2016,4:04.58,Berlin (GER)
+1092,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,1500 Metres,10 JUN 2017,3:52.67,Regensburg (GER)
+1093,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,1500 Metres,09 JUN 2018,3:55.15,Pfungstadt (GER)
+1094,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,1500 Metres,29 MAY 2019,3:56.42,Osterode (GER)
+1095,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,1500 Metres,01 AUG 2020,3:51.44,"TSV Stadion, Pfungstadt (GER)"
+1096,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,1500 Metres,03 JUL 2021,3:49.62,"Stadion De Veen, Heusden-Zolder (BEL)"
+1097,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,1500 Metres,02 JUL 2022,3:46.62,"Stadion De Veen, Heusden-Zolder (BEL)"
+1098,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,3000 Metres,28 AUG 2020,8:25.40,"Mommsenstadion, Berlin (GER)"
+1099,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Outdoor,3000 Metres,05 MAY 2021,8:38.75,"Nordanlage, Leipzig (GER)"
+1100,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,800 Metres,16 JAN 2016,1:58.94,Berlin (GER)
+1101,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,800 Metres,27 JAN 2017,1:56.39,Erfurt (GER)
+1102,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,800 Metres,27 JAN 2018,1:56.71,Erfurt (GER)
+1103,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,800 Metres,03 FEB 2019,1:54.17,Neubrandenburg (GER)
+1104,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,800 Metres,09 FEB 2022,1:53.54,"Quarterback Immobilien Arena, Leipzig (GER)"
+1105,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,1500 Metres,04 FEB 2017,4:03.42,Neubrandenburg (GER)
+1106,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,1500 Metres,03 MAR 2018,4:01.03,Nantes (FRA)
+1107,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,1500 Metres,25 JAN 2019,3:54.13,Erfurt (GER)
+1108,Artur BEIMLER,22 JAN 2000,GER,975,1500m [1500m ind.],Indoor,1500 Metres,01 FEB 2022,3:51.19,"Hartwig-Gauder-Halle, Erfurt (GER)"
+1109,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,800 Metres,14 SEP 2021,1:53.32,"Sports Park Mladost, Zagreb (CRO)"
+1110,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,800 Metres,06 JUL 2022,1:51.41,"Stadion SRC Mladost, Čakovec (CRO)"
+1111,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,1000 Metres,24 APR 2021,2:35.35,"Stadion ŠC Sloboda, Varaždin (CRO)"
+1112,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,1000 Metres,14 MAY 2022,2:25.49,"Sports Park Mladost, Zagreb (CRO)"
+1113,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,1500 Metres,04 SEP 2021,3:57.66,"Stadion Branko Čavlović-Čavlek, Karlovac (CRO)"
+1114,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,1500 Metres,14 JUN 2022,3:51.13,"Atletski stadion Poljane, Maribor (SLO)"
+1115,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,3000 Metres,02 OCT 2021,8:41.88,"Stadion SRC Mladost, Čakovec (CRO)"
+1116,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,3000 Metres,09 JUL 2022,8:47.98,"Sports Park Mladost, Zagreb (CRO)"
+1117,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,5000 Metres,19 SEP 2021,14:52.06,"Sports Park Mladost, Zagreb (CRO)"
+1118,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Outdoor,5000 Metres,10 JUL 2022,15:41.15,"Sports Park Mladost, Zagreb (CRO)"
+1119,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Indoor,1500 Metres,20 FEB 2021,4:07.83,"Velesajam Hall, Zagreb (CRO)"
+1120,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Indoor,1500 Metres,29 JAN 2022,3:53.73,"Velesajam Hall, Zagreb (CRO)"
+1121,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Indoor,3000 Metres,07 FEB 2021,9:07.14,"Velesajam Hall, Zagreb (CRO)"
+1122,Nino JAMBREŠIĆ,14 JUN 2004,CRO,975,1500m [1500m ind.],Indoor,3000 Metres,22 JAN 2022,8:36.97,Zagreb (CRO)
+1123,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,21 JUN 2014,1:59.99,Cáceres (ESP)
+1124,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,27 JUN 2015,1:55.62,Ciudad Real (ESP)
+1125,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,02 JUL 2016,1:55.43,Castellón (ESP)
+1126,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,28 JUN 2017,1:54.56,Plasencia (ESP)
+1127,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,27 JUN 2018,1:54.12,Plasencia (ESP)
+1128,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,29 JUN 2019,1:54.36,Tarragona (ESP)
+1129,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,08 AUG 2020,1:53.48,Cáceres (ESP)
+1130,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,19 JUN 2021,1:53.58,Granada (ESP)
+1131,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,800 Metres,12 FEB 2022,1:54.45,Cáceres (ESP)
+1132,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,1500 Metres,27 SEP 2020,3:51.97,Sevilla (ESP)
+1133,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,1500 Metres,12 MAY 2021,3:50.90,"Estadio Enrique Lopez Cuenca, Nerja (ESP)"
+1134,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,1500 Metres,18 JUN 2022,3:50.10,Huelva (ESP)
+1135,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,3000 Metres,04 JAN 2022,8:27.55,Nerja (ESP)
+1136,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Outdoor,5 Kilometres,25 SEP 2021,15:31,Don Benito (ESP)
+1137,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,800 Metres,14 MAR 2015,1:58.17,San Sebastián (ESP)
+1138,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,800 Metres,19 MAR 2016,1:56.11,Sabadell (ESP)
+1139,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,800 Metres,04 MAR 2017,1:54.63,Valencia (ESP)
+1140,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,800 Metres,10 FEB 2018,1:56.28,Salamanca (ESP)
+1141,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,800 Metres,20 JAN 2019,1:55.89,Antequera (ESP)
+1142,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,800 Metres,09 FEB 2020,1:55.34,"Centro de Tecnificación de Atletismo, Antequera (ESP)"
+1143,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,800 Metres,21 FEB 2021,1:53.90,Antequera (ESP)
+1144,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,1500 Metres,03 FEB 2019,3:59.15,Antequera (ESP)
+1145,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,1500 Metres,03 JAN 2020,3:59.31,Antequera (ESP)
+1146,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,1500 Metres,30 JAN 2021,3:53.27,Antequera (ESP)
+1147,Andres SERRANO,20 JUL 1998,ESP,975,1500m [1500m ind.],Indoor,1500 Metres,29 JAN 2022,3:51.26,Antequera (ESP)
+1148,Martin SEGUROLA,01 JUL 2003,RSA,975,1500m,Outdoor,800 Metres,28 NOV 2020,1:59.14,"Bestmed Tuks Stadium, Pretoria (RSA)"
+1149,Martin SEGUROLA,01 JUL 2003,RSA,975,1500m,Outdoor,800 Metres,13 JUN 2021,1:55.14,San Sebastián (ESP)
+1150,Martin SEGUROLA,01 JUL 2003,RSA,975,1500m,Outdoor,800 Metres,05 JUN 2022,1:51.17,Durango (ESP)
+1151,Martin SEGUROLA,01 JUL 2003,RSA,975,1500m,Outdoor,1500 Metres,23 APR 2022,3:48.15,"Rice University Ley Track/Holloway Field, Houston, TX (USA)"
+1152,Martin SEGUROLA,01 JUL 2003,RSA,975,1500m,Indoor,One Mile,22 JAN 2022,4:18.71,"Houston-Yeoman FH, Houston, TX (USA)"
+1153,Finn WALSH,,USA,974,1500m [Mile ind.],Outdoor,800 Metres,13 MAY 2022,1:52.55,"Morris Williams T&F Stadium, Durham, NC (USA)"
+1154,Finn WALSH,,USA,974,1500m [Mile ind.],Outdoor,1500 Metres,08 APR 2022,3:48.51,"Morris Williams T&F Stadium, Durham, NC (USA)"
+1155,Finn WALSH,,USA,974,1500m [Mile ind.],Indoor,800 Metres,04 FEB 2022,1:52.05,"Rector Fieldhouse, Blacksburg, VA (USA)"
+1156,Finn WALSH,,USA,974,1500m [Mile ind.],Indoor,One Mile,11 FEB 2022,4:07.79,"Clemson Indoor Track & Field Complex, Clemson, SC (USA)"
+1157,Finn WALSH,,USA,974,1500m [Mile ind.],Indoor,3000 Metres,26 FEB 2022,8:31.70,"Rector Fieldhouse, Blacksburg, VA (USA)"
+1158,Finn WALSH,,USA,974,1500m [Mile ind.],Indoor,Distance Medley Relay,15 JAN 2022,9:59.79,"Ashenfelter Indoor Track, State College, PA (USA)"
+1159,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,400 Metres,14 AUG 2021,50.66,"Trondheim Stadion, Trondheim (NOR)"
+1160,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,600 Metres,12 SEP 2020,1:19.44,"Dalgård idrettspark, Trondheim (NOR)"
+1161,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,600 Metres,17 MAY 2021,1:23.10,"Trondheim Stadion, Trondheim (NOR)"
+1162,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,800 Metres,06 JUL 2017,1:57.65,Oslo (NOR)
+1163,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,800 Metres,05 JUL 2018,1:54.19,Oslo (NOR)
+1164,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,800 Metres,25 AUG 2019,1:54.36,Sigdal (NOR)
+1165,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,800 Metres,07 AUG 2020,1:51.82,"Stadion, Kristiansand (NOR)"
+1166,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,800 Metres,06 AUG 2021,1:50.66,"Friidrettsstadion, Jessheim (NOR)"
+1167,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,1500 Metres,12 SEP 2017,4:04.12,Nadderud (NOR)
+1168,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,1500 Metres,15 MAY 2018,3:58.49,Oslo (NOR)
+1169,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,1500 Metres,04 JUN 2020,3:56.44,"Friidrettsstadion, Jessheim (NOR)"
+1170,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,1500 Metres,14 JUL 2021,3:49.23,"Bislett Stadion, Oslo (NOR)"
+1171,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,1500 Metres,02 JUN 2022,3:47.99,"Friidrettsstadion, Jessheim (NOR)"
+1172,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,3000 Metres,23 JUN 2018,8:48.45,Lillehammer (NOR)
+1173,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,3000 Metres,28 SEP 2020,8:24.47,"Trondheim Stadion, Trondheim (NOR)"
+1174,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Outdoor,3000 Metres,04 MAY 2021,8:46.23,"Trondheim Stadion, Trondheim (NOR)"
+1175,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,800 Metres,04 MAR 2017,1:59.85,"Rud, Bærum (NOR)"
+1176,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,800 Metres,11 FEB 2018,1:59.35,Bærum (NOR)
+1177,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,800 Metres,02 MAR 2019,1:55.63,Ulsteinvik (NOR)
+1178,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,800 Metres,02 FEB 2020,1:53.44,"Bærum Idrettspark, Rud, Bærum (NOR)"
+1179,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,1500 Metres,11 MAR 2018,4:08.39,Steinkjer (NOR)
+1180,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,1500 Metres,03 MAR 2019,4:00.97,Ulsteinvik (NOR)
+1181,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,1500 Metres,01 FEB 2020,4:01.96,"Bærum Idrettspark, Rud, Bærum (NOR)"
+1182,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,1500 Metres,05 FEB 2022,3:50.87,"Ulsteinhallen, Ulsteinvik (NOR)"
+1183,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,2000 Metres,06 DEC 2020,5:32.66,"Steinkjerhallen, Steinkjer (NOR)"
+1184,Sondre RISHØI,30 APR 2000,NOR,974,1500m [1500m ind.],Indoor,3000 Metres,06 FEB 2022,8:33.00,"Ulsteinhallen, Ulsteinvik (NOR)"
+1185,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,800 Metres,03 OCT 2020,1:55.48,"Dagenham Arena, London (GBR)"
+1186,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,800 Metres,31 JUL 2021,1:55.39,"Embankment Track, Peterborough (GBR)"
+1187,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,1500 Metres,24 SEP 2020,3:54.40,"Bannister Stadium, Harrow (GBR)"
+1188,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,1500 Metres,14 AUG 2021,3:45.90,"Eltham Sutcliffe Park Athletics Track, London (GBR)"
+1189,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,1500 Metres,06 AUG 2022,3:45.99,"Wimbledon Park Athletics Track, London (GBR)"
+1190,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,One Mile,22 AUG 2021,4:13.64,"Linford Christie Stadium, London (GBR)"
+1191,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,3000 Metres,13 JUL 2019,8:37.21,Birmingham (GBR)
+1192,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,3000 Metres,10 SEP 2020,8:22.60,"Bannister Stadium, Harrow (GBR)"
+1193,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,3000 Metres,22 MAY 2021,8:10.17,"Stantonbury Stadium, Milton Keynes (GBR)"
+1194,Alex MELLOY,28 SEP 2003,GBR,974,1500m [Mile],Outdoor,3000 Metres,23 APR 2022,8:27.77,"Loughborough University Track, Loughborough (GBR)"
+1195,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,800 Metres,16 MAR 2014,1:59.22,Sydney (AUS)
+1196,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,800 Metres,24 JAN 2016,1:57.31,Geelong (AUS)
+1197,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,800 Metres,09 NOV 2017,1:53.50,Melbourne (AUS)
+1198,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,800 Metres,25 FEB 2018,1:55.08,Melbourne (AUS)
+1199,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,800 Metres,07 MAR 2020,1:54.25,"Duncan Mackinnon Reserve, Murrumbeena, Melbourne (AUS)"
+1200,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,800 Metres,09 FEB 2021,1:54.53,"Hagenauer Reserve, Box Hill, Melbourne (AUS)"
+1201,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,800 Metres,26 FEB 2022,1:56.74,"Lakeside Stadium, Melbourne (AUS)"
+1202,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1000 Metres,02 MAR 2021,2:33.05,"Hagenauer Reserve, Box Hill, Melbourne (AUS)"
+1203,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1500 Metres,01 DEC 2015,4:04.70,Melbourne (AUS)
+1204,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1500 Metres,19 JAN 2016,3:59.75,Melbourne (AUS)
+1205,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1500 Metres,10 DEC 2017,3:54.7h,Melbourne (AUS)
+1206,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1500 Metres,08 MAR 2018,3:49.27,Melbourne (AUS)
+1207,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1500 Metres,28 NOV 2019,3:56.90,"Hagenauer Reserve, Box Hill, Melbourne (AUS)"
+1208,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1500 Metres,03 DEC 2020,3:47.32,"Duncan Mackinnon Reserve, Murrumbeena, Melbourne (AUS)"
+1209,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1500 Metres,16 DEC 2021,3:47.67,"Hagenauer Reserve, Box Hill, Melbourne (AUS)"
+1210,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,1500 Metres,24 MAR 2022,3:49.36,"Hagenauer Reserve, Box Hill, Melbourne (AUS)"
+1211,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,One Mile,23 DEC 2017,4:17.48,Geelong (AUS)
+1212,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,One Mile,22 DEC 2018,4:17.41,Geelong (AUS)
+1213,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,One Mile,21 DEC 2019,4:18.66,"The Crest Athletics Centre, Sydney (AUS)"
+1214,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,One Mile,19 DEC 2020,4:06.84,"The Crest Athletics Centre, Sydney (AUS)"
+1215,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,One Mile,08 FEB 2022,4:10.41,"Lakeside Stadium, Melbourne (AUS)"
+1216,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,3000 Metres,08 MAR 2016,8:43.21,Perth (AUS)
+1217,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,3000 Metres,07 OCT 2017,8:46.56,Melbourne (AUS)
+1218,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,3000 Metres,08 NOV 2018,8:38.98,Melbourne (AUS)
+1219,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,3000 Metres,07 NOV 2019,8:39.1h,"Duncan Mackinnon Reserve, Murrumbeena, Melbourne (AUS)"
+1220,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,3000 Metres,25 NOV 2021,8:16.42,"Hagenauer Reserve, Box Hill, Melbourne (AUS)"
+1221,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,3000 Metres,12 MAR 2022,8:19.87,"SOPAC, Sydney (AUS)"
+1222,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,4x800 Metres Relay,30 JAN 2021,7:51.72,"Hagenauer Reserve, Box Hill, Melbourne (AUS)"
+1223,Edward BEISCHER,13 JAN 1999,AUS,974,1500m [Mile],Outdoor,4x1500 Metres Relay,31 JAN 2021,16:11.16,"Hagenauer Reserve, Box Hill, Melbourne (AUS)"
+1224,Alex KALMAR,,USA,974,1500m [Mile],Outdoor,800 Metres,06 MAY 2022,1:49.93,"CSU Titan Track Complex, Fullerton, CA (USA)"
+1225,Alex KALMAR,,USA,974,1500m [Mile],Outdoor,1500 Metres,15 APR 2022,3:46.95,"Cougar Athletic Stadium, Azusa, CA (USA)"
+1226,Alex KALMAR,,USA,974,1500m [Mile],Outdoor,One Mile,25 MAR 2022,4:07.03,"Drake Stadium, Los Angeles, CA (USA)"
+1227,Alex KALMAR,,USA,974,1500m [Mile],Indoor,600 Metres,04 FEB 2022,1:21.37,"Convention Center, Albuquerque, NM (USA)"
+1228,Alex KALMAR,,USA,974,1500m [Mile],Indoor,800 Metres,05 FEB 2022,1:53.43,"Convention Center, Albuquerque, NM (USA)"
+1229,Alex KALMAR,,USA,974,1500m [Mile],Indoor,Distance Medley Relay,18 FEB 2022,9:48.77,"The Podium, Spokane, WA (USA)"
+1230,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,800 Metres,22 MAY 2016,1:59.57,Wageningen (NED)
+1231,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,800 Metres,15 JUN 2018,1:57.19,Wageningen (NED)
+1232,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,800 Metres,09 JUL 2022,1:55.42,Cornellá (ESP)
+1233,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,1500 Metres,18 MAY 2016,3:59.49,Nijmegen (NED)
+1234,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,1500 Metres,08 JUN 2018,3:54.83,Nijmegen (NED)
+1235,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,1500 Metres,08 JUN 2022,3:47.18,El Prat de Llobregat (ESP)
+1236,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,3000 Metres,05 MAY 2016,8:33.36,Vught (NED)
+1237,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,3000 Metres,10 MAY 2018,8:22.89,Vught (NED)
+1238,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,3000 Metres,30 MAY 2019,8:32.40,Vught (NED)
+1239,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,3000 Metres,29 MAY 2021,8:18.03,"Atletiekbaan Brakkenstein, Nijmegen (NED)"
+1240,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,3000 Metres,29 MAY 2022,8:14.56,Palafrugell (ESP)
+1241,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,5000 Metres,13 MAY 2016,15:00.19,Wageningen (NED)
+1242,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,5000 Metres,22 JUN 2018,14:47.96,Utrecht (NED)
+1243,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,5000 Metres,07 JUN 2019,14:54.20,"De Bongerd, Wageningen (NED)"
+1244,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,5000 Metres,08 MAY 2021,14:33.93,"Sportpark Ter Specke, Lisse (NED)"
+1245,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,5000 Metres,25 JUN 2022,14:11.94,"Sportpark Orderbos, Apeldoorn (NED)"
+1246,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,10 Kilometres,03 OCT 2021,29:50,Valencia (ESP)
+1247,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,15 Kilometres,17 NOV 2019,47:37,Nijmegen (NED)
+1248,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,Half Marathon,19 SEP 2020,1:10:00,Ústí nad Labem (CZE)
+1249,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Outdoor,Half Marathon,17 OCT 2021,1:05:29,Barcelona (ESP)
+1250,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Indoor,1500 Metres,06 FEB 2016,4:01.34,Apeldoorn (NED)
+1251,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Indoor,1500 Metres,20 FEB 2022,3:51.46,"Pista Coberta de Catalunya, Sabadell (ESP)"
+1252,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Indoor,3000 Metres,02 MAR 2019,8:31.54,Apeldoorn (NED)
+1253,Ruben SANSOM,13 NOV 1997,NED,974,1500m [1500m ind.],Indoor,3000 Metres,30 JAN 2022,8:08.27,"Pista Coberta de Catalunya, Sabadell (ESP)"
+1254,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Outdoor,800 Metres,12 JUL 2020,1:58.62,"Stade A. Bergeal, Mantes-la-Ville (FRA)"
+1255,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Outdoor,800 Metres,08 MAY 2022,1:54.35,"Stade de Montbauron, Versailles (FRA)"
+1256,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Outdoor,1000 Metres,18 JUL 2020,2:30.94,"Stade Philippe Mahut, Fontainebleau (FRA)"
+1257,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Outdoor,1500 Metres,19 SEP 2020,3:59.86,"Stade des Maradas, Cergy-Pontoise (FRA)"
+1258,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Outdoor,1500 Metres,22 JUN 2022,3:48.45,"Stade Adolphe Cheron, St-Maur (FRA)"
+1259,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Outdoor,3000 Metres,01 JUL 2020,8:49.14,"Stade de Montbauron, Versailles (FRA)"
+1260,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Outdoor,3000 Metres,10 JUL 2021,8:36.51,"Stade R. Bobin, Bondoufle (FRA)"
+1261,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Outdoor,3000 Metres,29 JUN 2022,8:15.74,"Stade Adolphe Cheron, St-Maur (FRA)"
+1262,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Indoor,1500 Metres,29 JAN 2022,3:53.21,"Stade Couvert Stephane Diagana, Eaubonne (FRA)"
+1263,Suleyman YALAOUI,04 FEB 2004,FRA,974,1500m [1500m ind.],Indoor,3000 Metres,21 JAN 2022,8:28.78,"Halle Stéphane Diagana, Lyon (FRA)"
+1264,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Outdoor,1000 Metres,30 APR 2022,2:28.72,"Parc Omnisports P. Coulon, Vichy (FRA)"
+1265,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Outdoor,1500 Metres,30 JUN 2021,3:56.06,"Complexe Sportif Des Cezeaux, Aubiére (FRA)"
+1266,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Outdoor,1500 Metres,02 JUL 2022,3:48.63,"Stade de La Gauthière, Clermont-Ferrand (FRA)"
+1267,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Outdoor,3000 Metres,08 JUL 2020,8:31.62,"Complexe Sportif Des Cezeaux, Aubiére (FRA)"
+1268,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Outdoor,3000 Metres,12 JUN 2021,8:58.15,"Stade Hector Rolland, Moulins (FRA)"
+1269,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Outdoor,3000 Metres,08 MAY 2022,8:22.04,"Parc Départemental de Parilly, Vénissieux (FRA)"
+1270,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Outdoor,5000 Metres,11 JUN 2022,14:14.67,"Stade Raymond Troussier, Decines (FRA)"
+1271,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Indoor,3000 Metres,26 JAN 2020,8:33.33,"Stadium Jean-Pellez, Aubiére (FRA)"
+1272,Quentin CHIARISOLI,16 JAN 1997,FRA,974,1500m,Indoor,3000 Metres,05 FEB 2022,8:20.00,"Salle Jean Pellez, Aubiére (FRA)"
+1273,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,800 Metres,10 JUL 2021,1:56.82,"Moselstadion, Trier (GER)"
+1274,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,1500 Metres,23 JUL 2020,3:58.89,"Moselstadion, Trier (GER)"
+1275,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,1500 Metres,01 SEP 2021,3:50.51,"TSV Stadion, Pfungstadt (GER)"
+1276,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,1500 Metres,21 MAY 2022,3:49.20,Karlsruhe (GER)
+1277,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,3000 Metres,15 AUG 2020,8:44.13,"Bungertstadion, Rehlingen (GER)"
+1278,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,3000 Metres,17 SEP 2021,8:21.34,"Moselstadion, Trier (GER)"
+1279,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,3000 Metres,29 MAY 2022,8:10.80,"Otto-Schott-Stadion, Mainz (GER)"
+1280,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,5000 Metres,30 JUL 2021,14:39.21,"Leichtathletikstadion, Rostock (GER)"
+1281,Benjamin DERN,10 MAY 2003,GER,974,1500m,Outdoor,5000 Metres,10 JUN 2022,14:39.26,"Am Sportpark, Hillesheim (GER)"
+1282,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,800 Metres,05 MAY 2018,1:56.22,Longjumeau (FRA)
+1283,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,800 Metres,10 JUL 2019,1:51.53,St-Maur (FRA)
+1284,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,800 Metres,02 AUG 2020,1:52.02,"Stade R. Bobin, Bondoufle (FRA)"
+1285,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,800 Metres,05 JUN 2021,1:52.83,"Stade Philippe Mahut, Fontainebleau (FRA)"
+1286,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,800 Metres,21 MAY 2022,1:54.90,"Stade A. Delaune, Maisons-Alfort (FRA)"
+1287,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,1000 Metres,18 JUL 2020,2:28.12,"Stade Philippe Mahut, Fontainebleau (FRA)"
+1288,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,1500 Metres,12 OCT 2018,3:55.20,Buenos Aires (ARG)
+1289,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,1500 Metres,15 JUN 2019,3:57.43,Bron (FRA)
+1290,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,1500 Metres,19 SEP 2020,3:47.41,"Stade des Maradas, Cergy-Pontoise (FRA)"
+1291,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,1500 Metres,12 JUN 2021,3:51.35,Troyes (FRA)
+1292,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Outdoor,1500 Metres,11 JUN 2022,3:50.01,"Stade Raymond Troussier, Decines (FRA)"
+1293,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Indoor,800 Metres,13 JAN 2018,1:56.55,Fontainebleau (FRA)
+1294,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Indoor,800 Metres,12 JAN 2019,1:57.42,Fontainebleau (FRA)
+1295,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Indoor,800 Metres,30 JAN 2020,1:53.36,"Salle Robert Poirier, Rennes (FRA)"
+1296,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Indoor,800 Metres,31 JAN 2021,1:52.05,"Stade Couvert Stephane Diagana, Eaubonne (FRA)"
+1297,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Indoor,1500 Metres,06 MAR 2019,3:59.86,Istanbul (TUR)
+1298,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Indoor,1500 Metres,21 FEB 2021,3:51.39,"Stadium Miramas Métropole, Miramas (FRA)"
+1299,Corentin TIXIER,27 FEB 2002,FRA,974,1500m [1500m ind.],Indoor,1500 Metres,13 FEB 2022,3:52.04,"Halle Stéphane Diagana, Lyon (FRA)"
+1300,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,800 Metres,06 APR 2019,2:00.10,"Terre Haute, IN (USA)"
+1301,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,800 Metres,17 APR 2021,1:53.54,"Gibson Track & Field Complex, Terre Haute, IN (USA)"
+1302,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,800 Metres,16 APR 2022,1:54.02,"Jack Rose Track, Long Beach, CA (USA)"
+1303,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,1500 Metres,23 MAR 2019,4:00.60,"Carbondale, IL (USA)"
+1304,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,1500 Metres,09 APR 2021,3:50.00,"Audrey J. Walton Stadium, Warrensburg, MO (USA)"
+1305,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,1500 Metres,30 APR 2022,3:48.49,"Cardinal Park, Louisville, KY (USA)"
+1306,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,One Mile,11 FEB 2022,4:07.52,"GVSU Kelly Family Sports Cente, Allendale, MI (USA)"
+1307,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,3000 Metres,22 JAN 2022,8:50.77,"Loftus Sports Center, South Bend, IN (USA)"
+1308,Shane KNANISHU,,USA,974,1500m [Mile],Outdoor,4x800 Metres Relay,11 MAY 2019,7:39.14,"New York, NY (USA)"
+1309,Shane KNANISHU,,USA,974,1500m [Mile],Indoor,Distance Medley Relay,25 FEB 2022,9:56.59,"Gately Indoor TF Center, Chicago, IL (USA)"
+1310,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,800 Metres,31 JUL 2017,1:59.20,Québec (CAN)
+1311,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,800 Metres,23 JUN 2018,1:56.52,Québec (CAN)
+1312,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,800 Metres,26 JUL 2019,1:52.84,Montréal (CAN)
+1313,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,800 Metres,21 AUG 2020,1:55.79,"PEPS de l'Université Laval, Québec (CAN)"
+1314,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,800 Metres,10 JUL 2021,1:49.89,"Université de Sherbrooke, Sherbrooke (CAN)"
+1315,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,800 Metres,03 JUN 2022,1:55.00,"Stade Telus, Quebec City (CAN)"
+1316,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,1000 Metres,12 AUG 2020,2:25.98,"Université de Sherbrooke, Sherbrooke (CAN)"
+1317,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,1500 Metres,13 JUL 2018,4:05.40,Québec (CAN)
+1318,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,1500 Metres,12 JUL 2019,3:53.56,Québec (CAN)
+1319,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,1500 Metres,01 AUG 2020,3:53.07,"Stade Telus, Quebec City (CAN)"
+1320,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,1500 Metres,24 JUL 2021,3:48.72,"PEPS de l'Université Laval, Québec (CAN)"
+1321,Raphaël GIGUÈRE,1998,CAN,974,1500m,Outdoor,1500 Metres,15 APR 2022,3:48.87,"Cougar Athletic Stadium, Azusa, CA (USA)"
+1322,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,600 Metres,22 FEB 2019,1:21.69,Montréal (CAN)
+1323,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,600 Metres,25 JAN 2020,1:22.74,"Tomlinson Fieldhouse, Montréal (CAN)"
+1324,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,1000 Metres,18 FEB 2018,2:33.98,Montréal (CAN)
+1325,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,1000 Metres,09 FEB 2019,2:27.95,"Boston, MA (USA)"
+1326,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,1000 Metres,15 FEB 2020,2:25.99,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1327,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,1000 Metres,12 FEB 2022,2:23.48,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1328,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,1500 Metres,18 FEB 2018,4:07.80,Montréal (CAN)
+1329,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,1500 Metres,08 DEC 2018,4:04.00,Québec (CAN)
+1330,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,1500 Metres,07 DEC 2019,4:03.66,"PEPS de l'Université Laval, Québec (CAN)"
+1331,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,1500 Metres,04 DEC 2021,3:57.14,"PEPS de l'Université Laval, Québec (CAN)"
+1332,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,4x800 Metres Relay,22 FEB 2019,7:45.07,Montréal (CAN)
+1333,Raphaël GIGUÈRE,1998,CAN,974,1500m,Indoor,4x800 Metres Relay,06 MAR 2020,7:39.61,"Universiade Pavilion, Edmonton (CAN)"
+1334,Jeremiah RASMUSSE,,USA,974,1500m [Mile ind.],Outdoor,800 Metres,16 APR 2022,1:52.76,"Lewisburg, PA (USA)"
+1335,Jeremiah RASMUSSE,,USA,974,1500m [Mile ind.],Outdoor,1500 Metres,14 MAY 2022,3:49.97,"Zable Stadium - College of William & Mary, Williamsburg, VA (USA)"
+1336,Jeremiah RASMUSSE,,USA,974,1500m [Mile ind.],Outdoor,One Mile,06 APR 2019,4:18.84,"Arcadia, CA (USA)"
+1337,Jeremiah RASMUSSE,,USA,974,1500m [Mile ind.],Outdoor,4x800 Metres Relay,06 MAY 2022,7:30.61,"U.S. Naval Academy, Annapolis, MD (USA)"
+1338,Jeremiah RASMUSSE,,USA,974,1500m [Mile ind.],Indoor,1000 Metres,05 FEB 2022,2:26.73,"Navy-Wesley A. Brown FH, Annapolis, MD (USA)"
+1339,Jeremiah RASMUSSE,,USA,974,1500m [Mile ind.],Indoor,One Mile,12 FEB 2022,4:11.87,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1340,Jeremiah RASMUSSE,,USA,974,1500m [Mile ind.],Indoor,4x800 Metres Relay,26 FEB 2022,7:35.48,"Gerhard Fieldhouse, Lewisburg, PA (USA)"
+1341,Jeremiah RASMUSSE,,USA,974,1500m [Mile ind.],Indoor,Distance Medley Relay,27 FEB 2022,9:59.31,"Gerhard Fieldhouse, Lewisburg, PA (USA)"
+1342,Yusuke INOUCHI,15 MAY 1999,JPN,973,1500m,Outdoor,800 Metres,03 JUL 2021,1:55.29,"University Stadium, Tsukuba (JPN)"
+1343,Yusuke INOUCHI,15 MAY 1999,JPN,973,1500m,Outdoor,1500 Metres,01 MAY 2019,3:57.82,"University Stadium, Tsukuba (JPN)"
+1344,Yusuke INOUCHI,15 MAY 1999,JPN,973,1500m,Outdoor,1500 Metres,13 AUG 2020,3:50.08,"University Stadium, Tsukuba (JPN)"
+1345,Yusuke INOUCHI,15 MAY 1999,JPN,973,1500m,Outdoor,1500 Metres,17 SEP 2021,3:45.57,"Prefectural Stadium, Kumagaya (JPN)"
+1346,Yusuke INOUCHI,15 MAY 1999,JPN,973,1500m,Outdoor,1500 Metres,09 APR 2022,3:47.93,"Egao Kenko Stadium, Kumamoto (JPN)"
+1347,Ishu SOLANKI,22 JUN 2000,IND,973,1500m,Outdoor,1500 Metres,27 SEP 2021,3:53.08,"JLN Stadium, New Delhi (IND)"
+1348,Ishu SOLANKI,22 JUN 2000,IND,973,1500m,Outdoor,1500 Metres,03 APR 2022,3:47.89,"CH Muhammed Koya Stadium, Thenhipalam (IND)"
+1349,Christian BALCER,,USA,973,1500m [Mile ind.],Outdoor,800 Metres,05 MAR 2022,1:52.90,"Parkman Track, Clinton, MS (USA)"
+1350,Christian BALCER,,USA,973,1500m [Mile ind.],Outdoor,1500 Metres,28 APR 2022,3:48.77,"Parkman Track, Clinton, MS (USA)"
+1351,Christian BALCER,,USA,973,1500m [Mile ind.],Outdoor,5000 Metres,24 MAR 2022,14:25.87,"Paul Derr TF Facility, Raleigh, NC (USA)"
+1352,Christian BALCER,,USA,973,1500m [Mile ind.],Outdoor,3000 Metres Steeplechase,14 MAY 2022,9:04.26,"Lee’s Multi-Sport Complex, Cleveland, TN (USA)"
+1353,Christian BALCER,,USA,973,1500m [Mile ind.],Indoor,800 Metres,06 FEB 2022,1:54.23,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+1354,Christian BALCER,,USA,973,1500m [Mile ind.],Indoor,One Mile,28 JAN 2022,4:10.96,"South Carolina Indoor T&F Complex, Columbia, SC (USA)"
+1355,Christian BALCER,,USA,973,1500m [Mile ind.],Indoor,3000 Metres,06 FEB 2022,8:27.72,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+1356,Christian BALCER,,USA,973,1500m [Mile ind.],Indoor,5000 Metres,29 JAN 2022,14:33.38,"South Carolina Indoor T&F Complex, Columbia, SC (USA)"
+1357,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,600 Metres,17 MAY 2021,1:24.87,"Trondheim Stadion, Trondheim (NOR)"
+1358,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,800 Metres,05 JUL 2018,1:58.12,Oslo (NOR)
+1359,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,800 Metres,29 AUG 2021,1:54.58,"Trondheim Stadion, Trondheim (NOR)"
+1360,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,800 Metres,11 JUN 2022,1:55.48,"Stadion, Nadderud (NOR)"
+1361,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,1500 Metres,14 JUL 2021,3:52.45,"Bislett Stadion, Oslo (NOR)"
+1362,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,1500 Metres,02 JUN 2022,3:48.70,"Friidrettsstadion, Jessheim (NOR)"
+1363,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,3000 Metres,28 SEP 2021,8:23.77,"Trondheim Stadion, Trondheim (NOR)"
+1364,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,3000 Metres,05 AUG 2022,8:17.10,"Friidrettsstadion, Jessheim (NOR)"
+1365,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Outdoor,5000 Metres,01 AUG 2021,14:54.33,"Ravnanger Idrettspark, Askoy (NOR)"
+1366,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Indoor,1500 Metres,05 FEB 2022,3:53.53,"Ulsteinhallen, Ulsteinvik (NOR)"
+1367,Halvor NYMOEN,29 APR 1999,NOR,973,1500m [1500m ind.],Indoor,3000 Metres,06 FEB 2022,8:35.53,"Ulsteinhallen, Ulsteinvik (NOR)"
+1368,Henry RUCKMAN-UTTING,,CAN,972,1500m [Mile ind.],Outdoor,800 Metres,16 JUN 2022,1:51.98,"Centennial Stadium, Victoria (CAN)"
+1369,Henry RUCKMAN-UTTING,,CAN,972,1500m [Mile ind.],Outdoor,1500 Metres,09 JUL 2022,3:51.48,"Hillside Stadium, Kamloops (CAN)"
+1370,Henry RUCKMAN-UTTING,,CAN,972,1500m [Mile ind.],Outdoor,3000 Metres,19 MAR 2022,9:07.92,"Terry Fox Field - SFU, Burnaby (CAN)"
+1371,Henry RUCKMAN-UTTING,,CAN,972,1500m [Mile ind.],Indoor,One Mile,30 JAN 2022,4:09.10,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1372,Daniel FERRANTE,,USA,972,1500m [Mile ind.],Outdoor,800 Metres,04 MAY 2019,1:59.90,"Charlottesville, VA (USA)"
+1373,Daniel FERRANTE,,USA,972,1500m [Mile ind.],Outdoor,800 Metres,11 MAY 2021,1:55.26,"Johns Hopkins/Loyola Track & Field Complex, Baltimore, MD (USA)"
+1374,Daniel FERRANTE,,USA,972,1500m [Mile ind.],Outdoor,800 Metres,07 MAY 2022,1:53.65,"POMOCO Stadium, Newport News, VA (USA)"
+1375,Daniel FERRANTE,,USA,972,1500m [Mile ind.],Outdoor,1500 Metres,16 APR 2021,3:58.57,"CNU - Irwin Belk Track, Newport News, VA (USA)"
+1376,Daniel FERRANTE,,USA,972,1500m [Mile ind.],Outdoor,1500 Metres,16 MAY 2022,3:49.28,"Leslie C. Quick Jr. Stadium, Chester, PA (USA)"
+1377,Daniel FERRANTE,,USA,972,1500m [Mile ind.],Outdoor,One Mile,15 APR 2022,4:11.43,"Shellenberger Field & Dr. Jack M. Toms Track, Lynchburg, VA (USA)"
+1378,Daniel FERRANTE,,USA,972,1500m [Mile ind.],Indoor,800 Metres,06 FEB 2022,1:57.53,"Virginia Beach Sports Center, Virginia Beach, VA (USA)"
+1379,Daniel FERRANTE,,USA,972,1500m [Mile ind.],Indoor,One Mile,05 MAR 2022,4:16.38,"James R. Wilkins Jr. Athl.Ctr., Winchester, VA (USA)"
+1380,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,800 Metres,31 JUL 2021,1:55.51,Templemore (IRL)
+1381,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,800 Metres,04 JUN 2022,1:57.97,"Kingsmeadow Athletics Centre, Kingston-upon-Thames (GBR)"
+1382,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,1500 Metres,24 JUL 2021,3:49.30,"Loughborough University Track, Loughborough (GBR)"
+1383,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,1500 Metres,28 MAY 2022,3:48.52,"Sportcity Regional Arena, Manchester (GBR)"
+1384,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,3000 Metres,12 JUN 2021,8:34.23,"Morton Stadium, Dublin (IRL)"
+1385,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,3000 Metres,09 JUL 2022,8:35.48,"Birmingham University Athletics Track, Birmingham (GBR)"
+1386,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,5000 Metres,29 MAY 2021,14:46.86,"Mary Peters Track, Belfast (GBR)"
+1387,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,3000 Metres Steeplechase,05 SEP 2020,9:57.94,"Santry, Dublin (IRL)"
+1388,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Outdoor,3000 Metres Steeplechase,20 JUN 2021,9:49.25,"Morton Stadium, Dublin (IRL)"
+1389,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Indoor,1500 Metres,13 MAR 2022,4:00.85,"AIT International Arena, Athlone (IRL)"
+1390,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Indoor,3000 Metres,29 FEB 2020,8:57.88,"National Indoor Arena, Abbotstown, Dublin (IRL)"
+1391,Mark HANRAHAN,23 JAN 2003,IRL,972,1500m,Indoor,3000 Metres,12 FEB 2022,8:31.52,"National Indoor Arena, Abbotstown, Dublin (IRL)"
+1392,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Outdoor,1500 Metres,19 JUN 2021,3:54.20,La Nucia (ESP)
+1393,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Outdoor,1500 Metres,05 JUL 2022,3:46.58,"Estadi Joan Serrahima, Barcelona (ESP)"
+1394,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Outdoor,3000 Metres,22 JUN 2019,8:44.92,Castellón (ESP)
+1395,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Outdoor,3000 Metres,03 JUL 2021,8:25.71,Monzón (ESP)
+1396,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Outdoor,3000 Metres,07 MAY 2022,8:21.67,Ibiza (ESP)
+1397,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Outdoor,5000 Metres,05 JUN 2021,14:51.26,Torrent (ESP)
+1398,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Outdoor,5000 Metres,04 JUN 2022,14:20.44,Los Corrales de Buelna (ESP)
+1399,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Indoor,3000 Metres,15 FEB 2020,8:46.79,"Velódromo Luis Puig, Valencia (ESP)"
+1400,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Indoor,3000 Metres,17 JAN 2021,8:38.70,"Velódromo Luis Puig, Valencia (ESP)"
+1401,Isaac Theo HIRSHMAN,01 OCT 2002,ESP,971,1500m,Indoor,3000 Metres,02 FEB 2022,8:20.16,"Velódromo Luis Puig, Valencia (ESP)"
+1402,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,600 Metres,12 SEP 2020,1:21.26,"Dalgård idrettspark, Trondheim (NOR)"
+1403,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,600 Metres,17 MAY 2021,1:22.49,"Trondheim Stadion, Trondheim (NOR)"
+1404,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,800 Metres,01 SEP 2018,1:57.04,Overhalla (NOR)
+1405,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,800 Metres,23 AUG 2020,1:54.60,"Trondheim Stadion, Trondheim (NOR)"
+1406,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,800 Metres,06 AUG 2021,1:53.06,"Friidrettsstadion, Jessheim (NOR)"
+1407,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,1500 Metres,01 AUG 2020,3:58.03,"Trondheim Stadion, Trondheim (NOR)"
+1408,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,1500 Metres,04 JUN 2021,3:49.72,"Bislett Stadion, Oslo (NOR)"
+1409,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,1500 Metres,26 JUL 2022,3:46.89,"Hällåsens IP, Söderhamn (SWE)"
+1410,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,3000 Metres,02 SEP 2018,8:49.81,Overhalla (NOR)
+1411,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,3000 Metres,14 JUN 2019,8:56.43,Bærum (NOR)
+1412,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,3000 Metres,09 JUN 2020,8:41.75,"Trondheim Stadion, Trondheim (NOR)"
+1413,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,3000 Metres,04 MAY 2021,8:20.53,"Trondheim Stadion, Trondheim (NOR)"
+1414,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Outdoor,3000 Metres,08 JUN 2022,8:12.68,"Fana Stadion, Bergen (NOR)"
+1415,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Indoor,1500 Metres,05 FEB 2022,3:53.26,"Ulsteinhallen, Ulsteinvik (NOR)"
+1416,Kristoffer SAGLI,30 JAN 2002,NOR,971,1500m [1500m ind.],Indoor,3000 Metres,29 JAN 2022,8:10.58,"Friidrottshall, Sollentuna (SWE)"
+1417,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,800 Metres,24 JUL 2012,1:59.63,Toronto (CAN)
+1418,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,800 Metres,11 AUG 2013,1:56.53,Langley (CAN)
+1419,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,800 Metres,17 AUG 2014,1:52.80,Langley (CAN)
+1420,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,800 Metres,10 JUL 2015,1:53.38,Guelph (CAN)
+1421,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,800 Metres,28 MAY 2017,1:55.08,Hamilton (CAN)
+1422,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,800 Metres,24 JUN 2018,1:54.42,Toronto (CAN)
+1423,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,1000 Metres,08 JUL 2014,2:28.40,Guelph (CAN)
+1424,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,1500 Metres,09 AUG 2013,4:01.88,Langley (CAN)
+1425,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,1500 Metres,15 AUG 2014,3:52.87,Langley (CAN)
+1426,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,1500 Metres,06 MAY 2015,3:51.46,Guelph (CAN)
+1427,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,1500 Metres,21 MAY 2016,3:44.34,Windsor (CAN)
+1428,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,1500 Metres,11 JUN 2017,3:48.26,London (CAN)
+1429,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,1500 Metres,01 JUL 2018,3:46.15,Hamilton (CAN)
+1430,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,1500 Metres,25 JUN 2022,3:48.00,"McLeod Stadium, Langley (CAN)"
+1431,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,One Mile,02 JUN 2016,4:08.00,"Concord, MA (USA)"
+1432,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,3000 Metres,29 MAY 2016,8:17.44,Hamilton (CAN)
+1433,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,5000 Metres,15 MAY 2018,14:38.77,Guelph (CAN)
+1434,Mark PATTON,21 AUG 1997,CAN,971,1500m,Outdoor,10 Kilometres,17 OCT 2021,30:21,Toronto (CAN)
+1435,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,400 Metres,26 JAN 2014,53.02,Toronto (CAN)
+1436,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,800 Metres,17 FEB 2013,1:58.36,Toronto (CAN)
+1437,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,800 Metres,09 FEB 2014,1:57.98,Toronto (CAN)
+1438,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,800 Metres,07 FEB 2015,1:57.90,Toronto (CAN)
+1439,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1000 Metres,30 JAN 2016,2:27.36,"Boston, MA (USA)"
+1440,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1000 Metres,17 FEB 2018,2:28.62,Guelph (CAN)
+1441,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1000 Metres,21 FEB 2020,2:27.96,"Track and Field Centre, Toronto (CAN)"
+1442,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1500 Metres,07 FEB 2015,4:09.76,Toronto (CAN)
+1443,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1500 Metres,19 FEB 2016,3:56.03,Toronto (CAN)
+1444,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1500 Metres,17 FEB 2017,3:51.68,Toronto (CAN)
+1445,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1500 Metres,27 JAN 2018,3:52.26,Montréal (CAN)
+1446,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1500 Metres,12 JAN 2019,3:53.54,Toronto (CAN)
+1447,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,1500 Metres,11 JAN 2020,3:54.04,"Dennis Fairall Fieldhouse, Windsor (CAN)"
+1448,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,One Mile,20 JAN 2017,4:10.85,"New York, NY (USA)"
+1449,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,One Mile,01 FEB 2020,4:07.53,"Ashenfelter Indoor Track, State College, PA (USA)"
+1450,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,3000 Metres,30 JAN 2016,8:30.00,"Boston, MA (USA)"
+1451,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,3000 Metres,27 JAN 2017,8:16.94,Montréal (CAN)
+1452,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,3000 Metres,09 MAR 2018,8:22.03,Windsor (CAN)
+1453,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,3000 Metres,11 JAN 2019,8:20.55,Toronto (CAN)
+1454,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,4x800 Metres Relay,23 FEB 2018,7:41.35,Windsor (CAN)
+1455,Mark PATTON,21 AUG 1997,CAN,971,1500m,Indoor,4x800 Metres Relay,06 MAR 2020,7:34.63,"Universiade Pavilion, Edmonton (CAN)"
+1456,Håkon MOE BERG,26 JUN 2006,NOR,971,1500m,Outdoor,800 Metres,04 JUN 2022,1:54.44,"Trondheim Stadion, Trondheim (NOR)"
+1457,Håkon MOE BERG,26 JUN 2006,NOR,971,1500m,Outdoor,1500 Metres,02 JUN 2022,3:49.74,"Friidrettsstadion, Jessheim (NOR)"
+1458,Håkon MOE BERG,26 JUN 2006,NOR,971,1500m,Outdoor,3000 Metres,05 AUG 2022,8:19.17,"Friidrettsstadion, Jessheim (NOR)"
+1459,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,400 Metres,02 SEP 2017,51.83,Bodø (NOR)
+1460,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,800 Metres,07 JUL 2016,1:54.78,Jämsä (FIN)
+1461,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,800 Metres,29 JUN 2017,1:54.30,Jämsä (FIN)
+1462,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,800 Metres,28 JUN 2018,1:56.01,Jämsä (FIN)
+1463,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,800 Metres,24 JUL 2019,1:53.97,Joensuu (FIN)
+1464,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,1500 Metres,22 JUL 2016,3:55.77,Oulu (FIN)
+1465,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,1500 Metres,04 AUG 2017,3:54.58,Kauhava (FIN)
+1466,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,1500 Metres,05 JUN 2018,3:55.96,"Paavo Nurmi Stadium, Turku (FIN)"
+1467,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,1500 Metres,14 AUG 2019,3:50.90,Oulu (FIN)
+1468,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,1500 Metres,15 JUL 2020,3:50.89,"Stadion, Lahti (FIN)"
+1469,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,1500 Metres,17 JUL 2021,3:47.38,"Valio Areena, Lapinlahti (FIN)"
+1470,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,1500 Metres,01 JUN 2022,3:48.25,Tampere (FIN)
+1471,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,3000 Metres,30 JUL 2016,8:38.39,Joensuu (FIN)
+1472,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,3000 Metres,17 JUN 2017,8:36.07,Kuortane (FIN)
+1473,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,3000 Metres,15 AUG 2018,8:50.9h,Liminka (FIN)
+1474,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,3000 Metres,20 JUN 2020,8:46.12,"Keskusurheilukenttä, Saarijärvi (FIN)"
+1475,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,5000 Metres,06 AUG 2017,15:12.80,Kauhava (FIN)
+1476,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,5000 Metres,01 SEP 2019,15:13.73,Porvoo (FIN)
+1477,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,5000 Metres,15 AUG 2020,15:06.58,"Paavo Nurmi Stadium, Turku (FIN)"
+1478,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Outdoor,"10,000 Metres",01 AUG 2019,32:07.54,Lappeenranta (FIN)
+1479,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Indoor,800 Metres,25 FEB 2017,2:01.17,Turku (FIN)
+1480,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Indoor,800 Metres,18 FEB 2018,1:57.33,Helsinki (FIN)
+1481,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Indoor,1500 Metres,24 FEB 2017,4:03.04,Turku (FIN)
+1482,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Indoor,1500 Metres,24 FEB 2018,4:00.09,Kuortane (FIN)
+1483,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Indoor,3000 Metres,25 FEB 2018,8:45.77,Kuortane (FIN)
+1484,Samuli HUSSA,10 SEP 1997,FIN,970,1500m,Indoor,3000 Metres,01 FEB 2020,8:26.79,Jyväskylä (FIN)
+1485,Matthew MULE',,USA,970,1500m,Outdoor,800 Metres,16 APR 2022,1:51.02,"Percy Beard Track, Gainesville, FL (USA)"
+1486,Matthew MULE',,USA,970,1500m,Outdoor,1500 Metres,15 APR 2022,3:46.40,"Percy Beard Track, Gainesville, FL (USA)"
+1487,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,02 JUN 2018,2:04.20,Windsor (CAN)
+1488,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,07 JUL 2019,1:56.86,London (CAN)
+1489,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,25 JUL 2021,1:53.09,"Track and Field Centre Outdoor Track, Toronto (CAN)"
+1490,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Outdoor,800 Metres,29 MAY 2022,1:52.81,"Alumni Stadium, London (CAN)"
+1491,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,01 JUL 2018,4:07.31,Hamilton (CAN)
+1492,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,16 JUN 2019,3:59.79,London (CAN)
+1493,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,24 JUL 2021,3:55.60,"Track and Field Centre Outdoor Track, Toronto (CAN)"
+1494,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Outdoor,1500 Metres,21 MAY 2022,3:49.47,"Alumni Field, Windsor (CAN)"
+1495,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Indoor,800 Metres,01 MAR 2020,1:59.11,"Track and Field Centre, Toronto (CAN)"
+1496,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Indoor,1000 Metres,20 FEB 2022,2:28.97,"Dennis Fairall Fieldhouse, Windsor (CAN)"
+1497,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Indoor,1500 Metres,06 MAR 2022,3:55.44,"Dennis Fairall Fieldhouse, Windsor (CAN)"
+1498,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Indoor,One Mile,27 FEB 2022,4:10.62,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1499,Paul POPESCU,2002,CAN,970,"1500m [1500m ind.,Mile ind.]",Indoor,4x800 Metres Relay,18 MAR 2022,7:46.39,"Track and Field Centre, Toronto (CAN)"
+1500,James PTACK,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,14 MAY 2022,3:50.12,"Weaver Stadium, Princeton, NJ (USA)"
+1501,James PTACK,,USA,970,1500m [Mile ind.],Outdoor,4x800 Metres Relay,08 MAY 2022,7:40.96,"Sports Backer Stadium, Richmond, VA (USA)"
+1502,James PTACK,,USA,970,1500m [Mile ind.],Indoor,800 Metres,15 JAN 2022,1:57.36,"Ocean Breeze Athl. Complex, New York, NY (USA)"
+1503,James PTACK,,USA,970,1500m [Mile ind.],Indoor,One Mile,12 FEB 2022,4:09.24,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1504,James PTACK,,USA,970,1500m [Mile ind.],Indoor,3000 Metres,06 MAR 2022,8:09.56,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1505,James PTACK,,USA,970,1500m [Mile ind.],Indoor,Two Miles,27 FEB 2021,9:17.13,"Virginia Beach Sports Center, Virginia Beach, VA (USA)"
+1506,James PTACK,,USA,970,1500m [Mile ind.],Indoor,Distance Medley Relay,26 FEB 2022,9:58.72,"George Mason-Rec. Sports Complex, Fairfax, VA (USA)"
+1507,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,13 APR 2019,1:56.05,"Coral Gables, FL (USA)"
+1508,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,24 APR 2021,1:54.34,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)"
+1509,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,23 APR 2022,1:51.74,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)"
+1510,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,20 APR 2019,3:53.47,"Baton Rouge, LA (USA)"
+1511,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,01 MAY 2021,3:55.00,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)"
+1512,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,15 APR 2022,3:47.19,"Percy Beard Track, Gainesville, FL (USA)"
+1513,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,One Mile,01 APR 2017,4:18.61,"Mobile, AL (USA)"
+1514,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,3000 Metres,03 APR 2021,8:41.42,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)"
+1515,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,5000 Metres,11 MAY 2019,15:17.63,"Fayetteville, AR (USA)"
+1516,Adam WISE,,USA,970,1500m [Mile ind.],Outdoor,4x400 Metres Relay,23 APR 2022,3:25.04,"LSU Bernie Moore Stadium, Baton Rouge, LA (USA)"
+1517,Adam WISE,,USA,970,1500m [Mile ind.],Indoor,800 Metres,12 JAN 2019,1:59.15,"Birmingham, AL (USA)"
+1518,Adam WISE,,USA,970,1500m [Mile ind.],Indoor,800 Metres,04 FEB 2022,1:56.88,"LSU Carl Maddox Fieldhouse, Baton Rouge, LA (USA)"
+1519,Adam WISE,,USA,970,1500m [Mile ind.],Indoor,One Mile,22 FEB 2019,4:13.97,"Fayetteville, AR (USA)"
+1520,Adam WISE,,USA,970,1500m [Mile ind.],Indoor,One Mile,25 FEB 2022,4:10.80,"Gilliam Indoor Track, College Station, TX (USA)"
+1521,Adam WISE,,USA,970,1500m [Mile ind.],Indoor,3000 Metres,21 FEB 2020,8:34.79,"LSU Carl Maddox Fieldhouse, Baton Rouge, LA (USA)"
+1522,Adam WISE,,USA,970,1500m [Mile ind.],Indoor,3000 Metres,18 FEB 2022,8:38.97,"LSU Carl Maddox Fieldhouse, Baton Rouge, LA (USA)"
+1523,Adam WISE,,USA,970,1500m [Mile ind.],Indoor,Distance Medley Relay,22 FEB 2019,10:07.31,"Fayetteville, AR (USA)"
+1524,Adam WISE,,USA,970,1500m [Mile ind.],Indoor,Distance Medley Relay,25 FEB 2021,9:43.14,"Randal Tyson Indoor Center, Fayetteville, AR (USA)"
+1525,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,1500 Metres,14 JUN 2019,3:54.82,"Prefectural Kasamatsu Stadium, Hitachinaka (JPN)"
+1526,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,1500 Metres,20 MAY 2021,3:50.02,"Gion Stadium, Sagamihara (JPN)"
+1527,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,1500 Metres,20 MAY 2022,3:47.31,"National Stadium, Tokyo (JPN)"
+1528,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,3000 Metres,03 APR 2021,8:09.34,"Juntendo University Stadium, Inzai (JPN)"
+1529,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,3000 Metres,01 MAY 2022,8:22.50,"Juntendo University Stadium, Inzai (JPN)"
+1530,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,5000 Metres,03 MAY 2019,15:02.35,Inzai (JPN)
+1531,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,5000 Metres,11 OCT 2020,14:34.13,"Prefectural Tendai Stadium, Chiba (JPN)"
+1532,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,5000 Metres,25 APR 2021,14:20.61,"NITTAIDAI Athletic Stadium, Yokohama (JPN)"
+1533,Kousuke ABURAYA,23 APR 2002,JPN,970,1500m,Outdoor,"10,000 Metres",16 OCT 2021,29:53.90,"Juntendo University Stadium, Inzai (JPN)"
+1534,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,03 MAY 2019,1:57.07,"Wichita, KS (USA)"
+1535,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,26 MAR 2022,1:53.45,"Cessna Stadium, Wichita, KS (USA)"
+1536,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,26 APR 2019,3:59.81,"Pittsburg, KS (USA)"
+1537,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,16 MAY 2021,3:46.52,"USF Track Complex, Tampa, FL (USA)"
+1538,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,01 APR 2022,3:49.05,"Hayward Field, Eugene, OR (USA)"
+1539,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Indoor,800 Metres,05 FEB 2022,1:56.76,"Wichita State-Heskett Center, Wichita, KS (USA)"
+1540,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Indoor,1000 Metres,16 JAN 2021,2:32.08,"Ahearn Field House, Manhattan, KS (USA)"
+1541,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Indoor,One Mile,01 FEB 2019,4:20.85,"Wichita, KS (USA)"
+1542,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Indoor,One Mile,12 FEB 2021,4:12.38,"Washburn Indoor Athletic Facility, Topeka, KS (USA)"
+1543,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Indoor,One Mile,26 FEB 2022,4:09.97,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+1544,Bryce MERRIMAN,,USA,970,1500m [Mile ind.],Indoor,Distance Medley Relay,25 FEB 2022,9:54.42,"CrossPlex Athletic Facility, Birmingham, AL (USA)"
+1545,Isaiah GALINDO,,USA,970,1500m,Outdoor,800 Metres,12 APR 2019,1:56.33,"Sanger, CA (USA)"
+1546,Isaiah GALINDO,,USA,970,1500m,Outdoor,800 Metres,19 MAR 2022,1:52.24,"Hornet Stadium - Sac St., Sacramento, CA (USA)"
+1547,Isaiah GALINDO,,USA,970,1500m,Outdoor,1500 Metres,17 APR 2021,3:56.55,"Hornet Stadium - Sac St., Sacramento, CA (USA)"
+1548,Isaiah GALINDO,,USA,970,1500m,Outdoor,1500 Metres,15 APR 2022,3:48.09,"Cougar Athletic Stadium, Azusa, CA (USA)"
+1549,Isaiah GALINDO,,USA,970,1500m,Outdoor,3000 Metres,12 MAR 2022,8:27.99,"UC Davis Woody Wilson Track, Davis, CA (USA)"
+1550,Isaiah GALINDO,,USA,970,1500m,Outdoor,4x400 Metres Relay,14 MAY 2022,3:16.35,"UC Davis Woody Wilson Track, Davis, CA (USA)"
+1551,Aiden ARNOLD,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,03 MAY 2019,1:58.91,"Jacksonville, FL (USA)"
+1552,Aiden ARNOLD,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,22 FEB 2020,1:58.55,"Deputy Scott Pine Community Park, Windermere, FL (USA)"
+1553,Aiden ARNOLD,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,07 MAY 2021,1:55.54,"Jax Track at Hodges Stadium, Jacksonville, FL (USA)"
+1554,Aiden ARNOLD,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,30 APR 2022,1:53.37,"Jax Track at Hodges Stadium, Jacksonville, FL (USA)"
+1555,Aiden ARNOLD,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,22 APR 2022,3:48.43,"Geroge C. Griffin Track, Atlanta, GA (USA)"
+1556,Aiden ARNOLD,,USA,970,1500m [Mile ind.],Indoor,800 Metres,22 JAN 2022,1:53.73,"South Carolina Indoor T&F Complex, Columbia, SC (USA)"
+1557,Aiden ARNOLD,,USA,970,1500m [Mile ind.],Indoor,One Mile,12 FEB 2022,4:12.67,"Liberty Indoor Complex, Lynchburg, VA (USA)"
+1558,James HOFFMAN,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,10 APR 2021,1:52.36,"Michael P. Brady Track and Field Complex, Lawrenceville, NJ (USA)"
+1559,James HOFFMAN,,USA,970,1500m [Mile ind.],Outdoor,800 Metres,02 APR 2022,1:54.23,"Johnny Unitas Stadium, Towson, MD (USA)"
+1560,James HOFFMAN,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,20 MAR 2021,3:51.96,"Military Academy Shea Stadium, West Point, NY (USA)"
+1561,James HOFFMAN,,USA,970,1500m [Mile ind.],Outdoor,1500 Metres,14 MAY 2022,3:48.51,"Weaver Stadium, Princeton, NJ (USA)"
+1562,James HOFFMAN,,USA,970,1500m [Mile ind.],Outdoor,5000 Metres,18 APR 2021,14:47.96,"OceanFirst Bank Center, West Long Branch, NJ (USA)"
+1563,James HOFFMAN,,USA,970,1500m [Mile ind.],Outdoor,Distance Medley Relay,29 APR 2022,9:46.43,"Franklin Field, Philadelphia, PA (USA)"
+1564,James HOFFMAN,,USA,970,1500m [Mile ind.],Indoor,One Mile,05 FEB 2022,4:11.80,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1565,James HOFFMAN,,USA,970,1500m [Mile ind.],Indoor,3000 Metres,28 JAN 2022,8:42.38,"Ocean Breeze Athl. Complex, New York, NY (USA)"
+1566,James HOFFMAN,,USA,970,1500m [Mile ind.],Indoor,4x800 Metres Relay,06 MAR 2022,7:26.72,"Boston Univ. Track & Tennis Center, Boston, MA (USA)"
+1567,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,800 Metres,27 APR 2019,1:58.97,Herve (BEL)
+1568,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,800 Metres,22 AUG 2020,1:53.70,Herve (BEL)
+1569,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,800 Metres,26 JUN 2021,1:51.89,"Boudewijnstadion, Bruxelles (BEL)"
+1570,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,800 Metres,18 JUN 2022,1:49.22,"Stade du Parc de la Dodaine, Nivelles (BEL)"
+1571,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,1000 Metres,03 SEP 2021,2:28.35,"Boudewijnstadion, Bruxelles (BEL)"
+1572,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,1500 Metres,07 AUG 2020,3:57.54,"Stade du Parc de la Dodaine, Nivelles (BEL)"
+1573,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,1500 Metres,29 MAY 2021,3:46.93,"Atletiekbaan Brakkenstein, Nijmegen (NED)"
+1574,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,1500 Metres,02 JUL 2022,3:45.34,"Stadion De Veen, Heusden-Zolder (BEL)"
+1575,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,3000 Metres,19 SEP 2021,8:46.63,"Stadium Bielmont, Verviers (BEL)"
+1576,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Outdoor,High Jump,15 SEP 2019,1.95,Mouscron (BEL)
+1577,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Indoor,800 Metres,04 JAN 2020,1:55.50,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)"
+1578,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Indoor,1500 Metres,29 JAN 2022,3:58.97,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)"
+1579,Regis THIBERT,26 JAN 2004,BEL,969,1500m,Indoor,High Jump,04 JAN 2020,1.94,"Complexe Sportif de Blocry, Louvain-La-Neuve (BEL)"
+1580,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,800 Metres,07 JUL 2019,2:02.91,London (CAN)
+1581,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,800 Metres,08 AUG 2021,1:53.77,"Track and Field Centre Outdoor Track, Toronto (CAN)"
+1582,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,800 Metres,12 JUN 2022,1:51.71,"Track and Field Centre Outdoor Track, Toronto (CAN)"
+1583,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,1500 Metres,03 AUG 2019,4:12.31,Windsor (CAN)
+1584,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,1500 Metres,24 JUL 2021,3:53.71,"Track and Field Centre Outdoor Track, Toronto (CAN)"
+1585,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,1500 Metres,17 JUN 2022,3:45.41,"Campbell Track, Hamilton (CAN)"
+1586,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,3000 Metres,03 AUG 2021,8:32.80,"Track and Field Centre Outdoor Track, Toronto (CAN)"
+1587,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,3000 Metres,04 JUN 2022,8:26.88,"Track and Field Centre Outdoor Track, Toronto (CAN)"
+1588,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Outdoor,5000 Metres,26 JUN 2022,15:11.74,"McLeod Stadium, Langley (CAN)"
+1589,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Indoor,1500 Metres,29 FEB 2020,4:07.42,"Track and Field Centre, Toronto (CAN)"
+1590,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Indoor,1500 Metres,09 APR 2022,3:54.59,"Track and Field Centre, Toronto (CAN)"
+1591,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Indoor,3000 Metres,01 MAR 2020,8:59.18,"Track and Field Centre, Toronto (CAN)"
+1592,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Indoor,3000 Metres,06 MAR 2022,8:30.71,"Track and Field Centre, Toronto (CAN)"
+1593,Aiden COLES,2004,CAN,969,1500m [1500m ind.],Indoor,4x800 Metres Relay,10 APR 2022,7:55.85,"Track and Field Centre, Toronto (CAN)"
+1594,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,800 Metres,05 JUL 2017,1:58.89,Newport (GBR)
+1595,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,800 Metres,06 JUL 2019,1:55.21,Cardiff (GBR)
+1596,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,800 Metres,11 AUG 2021,1:50.26,"Woodside Stadium, Watford (GBR)"
+1597,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,1500 Metres,05 MAY 2018,3:58.23,Street (GBR)
+1598,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,1500 Metres,01 JUN 2019,3:54.46,Milton Keynes (GBR)
+1599,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,1500 Metres,15 SEP 2020,3:45.88,"Trafford Athletic Stadium, Manchester (GBR)"
+1600,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,1500 Metres,29 MAY 2021,3:40.36,"Sportcity Regional Arena, Manchester (GBR)"
+1601,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,1500 Metres,10 AUG 2022,3:46.25,"Loughborough University Track, Loughborough (GBR)"
+1602,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,3000 Metres,14 JUL 2018,8:43.40,Cardiff (GBR)
+1603,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,3000 Metres,04 MAY 2019,8:48.01,Street (GBR)
+1604,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,3000 Metres,11 MAY 2022,8:36.14,"Birmingham University Athletics Track, Birmingham (GBR)"
+1605,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,10 Kilometres,19 SEP 2021,31:37,Swansea (GBR)
+1606,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,29 JUN 2019,9:01.61,Watford (GBR)
+1607,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Outdoor,3000 Metres Steeplechase,05 SEP 2020,9:18.63,"Sportcity Regional Arena, Manchester (GBR)"
+1608,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,800 Metres,03 MAR 2019,1:55.41,Cardiff (GBR)
+1609,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,800 Metres,05 JAN 2020,1:54.30,"EIS Don Valley Stadium, Sheffield (GBR)"
+1610,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,1500 Metres,14 JAN 2018,3:59.69,Cardiff (GBR)
+1611,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,1500 Metres,27 JAN 2019,3:57.92,Cardiff (GBR)
+1612,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,1500 Metres,25 JAN 2020,3:54.46,"National Indoor Athletics Centre, Cardiff (GBR)"
+1613,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,1500 Metres,09 JAN 2022,3:50.14,"National Indoor Athletics Centre, Sheffield (GBR)"
+1614,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,3000 Metres,16 DEC 2018,8:39.35,Cardiff (GBR)
+1615,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,3000 Metres,08 DEC 2019,9:01.81,"National Indoor Athletics Centre, Cardiff (GBR)"
+1616,Remilekun ADEBIYI,04 NOV 2000,GBR,969,1500m [1500m ind.],Indoor,3000 Metres,19 DEC 2021,8:24.76,"National Indoor Athletics Centre, Cardiff (GBR)"
+1617,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Outdoor,800 Metres,08 MAY 2022,1:53.24,Móstoles (ESP)
+1618,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Outdoor,1500 Metres,31 OCT 2020,3:58.76,Cartagena (ESP)
+1619,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Outdoor,1500 Metres,16 JUN 2021,3:51.09,Guadalajara (ESP)
+1620,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Outdoor,1500 Metres,28 JUN 2022,3:47.42,"Estadio Ciudad de Málaga, Málaga (ESP)"
+1621,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Outdoor,3000 Metres,22 JUN 2019,8:38.15,Castellón (ESP)
+1622,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Outdoor,3000 Metres,29 MAY 2021,8:17.08,Granollers (ESP)
+1623,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Outdoor,5000 Metres,10 APR 2021,14:54.10,Torrevieja (ESP)
+1624,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Indoor,1500 Metres,23 JAN 2021,3:58.90,"Gallur, Madrid (ESP)"
+1625,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Indoor,1500 Metres,05 FEB 2022,3:55.05,"Gallur, Madrid (ESP)"
+1626,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Indoor,3000 Metres,09 FEB 2019,8:38.58,Madrid (ESP)
+1627,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Indoor,3000 Metres,21 DEC 2019,8:33.02,"Gallur, Madrid (ESP)"
+1628,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Indoor,3000 Metres,29 JAN 2021,8:47.37,"Gallur, Madrid (ESP)"
+1629,Adrian DE LA ORDEN,02 DEC 2002,ESP,969,1500m [1500m ind.],Indoor,3000 Metres,09 JAN 2022,8:23.17,"Gallur, Madrid (ESP)"
